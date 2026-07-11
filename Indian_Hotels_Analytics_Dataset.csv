@@ -1,0 +1,1101 @@
+Hotel_ID,Hotel_Name,City,Location,Hotel_Type,Star_Rating,Customer_Rating,Reviews,Price_per_Night,Rooms_Available,Latitude,Longitude
+H0001,Delhi Hotel 1,Delhi,Connaught Place,Budget,5,3.6,507,8154,80,28.53663,77.179733
+H0002,Delhi Hotel 2,Delhi,Connaught Place,Business,4,3.7,723,18804,172,28.600153,77.245988
+H0003,Delhi Hotel 3,Delhi,Connaught Place,Budget,4,4.5,4997,14174,174,28.594485,77.222728
+H0004,Delhi Hotel 4,Delhi,Karol Bagh,Boutique,5,4.3,1153,5516,212,28.55564,77.138958
+H0005,Delhi Hotel 5,Delhi,Connaught Place,Resort,5,3.9,3832,13187,85,28.637803,77.257058
+H0006,Delhi Hotel 6,Delhi,Connaught Place,Budget,3,3.8,169,6130,215,28.547183,77.209524
+H0007,Delhi Hotel 7,Delhi,Aerocity,Boutique,3,4.2,1249,21994,181,28.624136,77.183063
+H0008,Delhi Hotel 8,Delhi,Karol Bagh,Luxury,3,4.3,3339,17529,179,28.692147,77.166181
+H0009,Delhi Hotel 9,Delhi,Karol Bagh,Resort,4,4.0,4657,11396,118,28.556144,77.187737
+H0010,Delhi Hotel 10,Delhi,Connaught Place,Luxury,5,3.6,1701,8913,182,28.681431,77.274673
+H0011,Delhi Hotel 11,Delhi,Karol Bagh,Budget,5,3.8,3479,14159,188,28.582206,77.263366
+H0012,Delhi Hotel 12,Delhi,Connaught Place,Luxury,5,4.0,1669,17203,247,28.611088,77.28473
+H0013,Delhi Hotel 13,Delhi,Karol Bagh,Boutique,3,3.5,4817,8283,64,28.602547,77.259849
+H0014,Delhi Hotel 14,Delhi,Karol Bagh,Luxury,4,4.3,1741,10722,19,28.681183,77.278261
+H0015,Delhi Hotel 15,Delhi,Aerocity,Boutique,4,4.5,4008,4632,188,28.543938,77.245288
+H0016,Delhi Hotel 16,Delhi,Connaught Place,Budget,4,4.5,2986,5744,50,28.553172,77.216063
+H0017,Delhi Hotel 17,Delhi,Connaught Place,Business,5,4.4,4511,15323,219,28.687962,77.284741
+H0018,Delhi Hotel 18,Delhi,Karol Bagh,Business,3,4.2,3031,5404,155,28.573084,77.217754
+H0019,Delhi Hotel 19,Delhi,Karol Bagh,Budget,5,3.6,566,21620,98,28.612372,77.130712
+H0020,Delhi Hotel 20,Delhi,Aerocity,Boutique,3,4.6,3151,9237,227,28.547679,77.151652
+H0021,Delhi Hotel 21,Delhi,Aerocity,Budget,5,3.6,1693,11401,85,28.607001,77.207794
+H0022,Delhi Hotel 22,Delhi,Connaught Place,Luxury,5,4.4,3783,15652,131,28.588835,77.260586
+H0023,Delhi Hotel 23,Delhi,Aerocity,Resort,4,4.2,3398,19919,139,28.589444,77.250296
+H0024,Delhi Hotel 24,Delhi,Aerocity,Business,5,3.3,126,16640,94,28.645357,77.142618
+H0025,Delhi Hotel 25,Delhi,Aerocity,Business,3,3.6,4828,13166,115,28.565406,77.19637
+H0026,Delhi Hotel 26,Delhi,Aerocity,Resort,4,4.1,120,11663,111,28.662139,77.283769
+H0027,Delhi Hotel 27,Delhi,Aerocity,Budget,4,4.0,3734,17639,165,28.632966,77.207895
+H0028,Delhi Hotel 28,Delhi,Connaught Place,Resort,4,4.3,3907,16150,104,28.641592,77.132224
+H0029,Delhi Hotel 29,Delhi,Aerocity,Luxury,5,4.2,367,13636,249,28.645364,77.150813
+H0030,Delhi Hotel 30,Delhi,Aerocity,Resort,5,3.2,3422,7884,45,28.620522,77.170704
+H0031,Delhi Hotel 31,Delhi,Connaught Place,Luxury,4,4.5,156,12996,23,28.607728,77.163025
+H0032,Delhi Hotel 32,Delhi,Aerocity,Luxury,4,3.4,4509,13019,207,28.68775,77.182678
+H0033,Delhi Hotel 33,Delhi,Karol Bagh,Resort,5,4.3,2338,6005,34,28.5832,77.168763
+H0034,Delhi Hotel 34,Delhi,Karol Bagh,Luxury,4,3.7,2473,13814,225,28.585297,77.163965
+H0035,Delhi Hotel 35,Delhi,Karol Bagh,Budget,3,4.4,4368,15583,117,28.576523,77.259608
+H0036,Delhi Hotel 36,Delhi,Connaught Place,Budget,5,4.7,2077,7744,41,28.655315,77.260382
+H0037,Delhi Hotel 37,Delhi,Connaught Place,Resort,5,3.7,908,18416,201,28.585442,77.137984
+H0038,Delhi Hotel 38,Delhi,Aerocity,Boutique,4,4.5,3405,13769,211,28.573366,77.138928
+H0039,Delhi Hotel 39,Delhi,Aerocity,Resort,5,4.5,4778,16149,68,28.56825,77.150027
+H0040,Delhi Hotel 40,Delhi,Karol Bagh,Luxury,4,3.6,3477,16140,226,28.647496,77.240098
+H0041,Delhi Hotel 41,Delhi,Connaught Place,Business,5,3.6,966,18243,172,28.635361,77.1424
+H0042,Delhi Hotel 42,Delhi,Connaught Place,Business,4,4.7,4246,13821,93,28.580219,77.19632
+H0043,Delhi Hotel 43,Delhi,Aerocity,Resort,3,3.8,2623,10704,21,28.675036,77.258573
+H0044,Delhi Hotel 44,Delhi,Karol Bagh,Luxury,3,3.7,4709,16813,206,28.633608,77.255474
+H0045,Delhi Hotel 45,Delhi,Karol Bagh,Business,4,3.8,3301,9573,73,28.608754,77.169848
+H0046,Delhi Hotel 46,Delhi,Aerocity,Luxury,5,3.6,2645,16355,51,28.571633,77.262215
+H0047,Delhi Hotel 47,Delhi,Aerocity,Resort,3,3.9,2929,21254,134,28.609299,77.236052
+H0048,Delhi Hotel 48,Delhi,Connaught Place,Resort,3,3.8,2049,5140,167,28.598329,77.207101
+H0049,Delhi Hotel 49,Delhi,Connaught Place,Resort,5,4.4,3249,14834,31,28.664541,77.199614
+H0050,Delhi Hotel 50,Delhi,Karol Bagh,Luxury,3,4.1,3357,12690,149,28.623555,77.170961
+H0051,Delhi Hotel 51,Delhi,Karol Bagh,Budget,3,3.7,2596,19761,103,28.586918,77.173496
+H0052,Delhi Hotel 52,Delhi,Aerocity,Boutique,5,3.4,4408,9055,50,28.685291,77.253044
+H0053,Delhi Hotel 53,Delhi,Aerocity,Resort,5,3.7,1210,19284,22,28.679401,77.184513
+H0054,Delhi Hotel 54,Delhi,Karol Bagh,Boutique,3,3.9,2796,18443,216,28.627921,77.26307
+H0055,Delhi Hotel 55,Delhi,Aerocity,Boutique,4,3.6,137,16169,125,28.580691,77.24036
+H0056,Delhi Hotel 56,Delhi,Connaught Place,Boutique,5,3.9,1476,20684,82,28.620318,77.237196
+H0057,Delhi Hotel 57,Delhi,Aerocity,Luxury,5,4.0,677,15343,242,28.543601,77.252743
+H0058,Delhi Hotel 58,Delhi,Aerocity,Resort,3,4.1,1692,21047,155,28.580872,77.13875
+H0059,Delhi Hotel 59,Delhi,Karol Bagh,Luxury,4,3.8,1700,20616,244,28.599161,77.184193
+H0060,Delhi Hotel 60,Delhi,Aerocity,Boutique,4,4.0,3741,19398,142,28.623132,77.175921
+H0061,Delhi Hotel 61,Delhi,Aerocity,Business,3,4.0,3523,16031,191,28.611965,77.247834
+H0062,Delhi Hotel 62,Delhi,Aerocity,Business,5,4.0,1308,7099,87,28.612081,77.258284
+H0063,Delhi Hotel 63,Delhi,Karol Bagh,Boutique,3,3.4,3806,7165,102,28.595803,77.20216
+H0064,Delhi Hotel 64,Delhi,Connaught Place,Business,3,3.9,3725,15361,105,28.568449,77.243132
+H0065,Delhi Hotel 65,Delhi,Karol Bagh,Boutique,4,3.4,599,20720,239,28.622582,77.170857
+H0066,Delhi Hotel 66,Delhi,Karol Bagh,Resort,4,4.4,2336,12179,106,28.631372,77.21992
+H0067,Delhi Hotel 67,Delhi,Aerocity,Luxury,3,4.3,4191,9555,71,28.622594,77.24436
+H0068,Delhi Hotel 68,Delhi,Aerocity,Luxury,3,4.7,1040,19652,79,28.655643,77.237302
+H0069,Delhi Hotel 69,Delhi,Connaught Place,Boutique,3,3.9,3854,19138,194,28.545955,77.204124
+H0070,Delhi Hotel 70,Delhi,Connaught Place,Luxury,3,4.6,1192,9405,42,28.615814,77.269002
+H0071,Delhi Hotel 71,Delhi,Karol Bagh,Boutique,4,4.3,401,15424,68,28.684283,77.205218
+H0072,Delhi Hotel 72,Delhi,Connaught Place,Resort,3,3.4,2784,8143,69,28.688663,77.186483
+H0073,Delhi Hotel 73,Delhi,Karol Bagh,Boutique,5,3.7,4864,9367,153,28.682553,77.265358
+H0074,Delhi Hotel 74,Delhi,Aerocity,Budget,3,3.5,1212,20667,168,28.675621,77.148355
+H0075,Delhi Hotel 75,Delhi,Aerocity,Boutique,4,4.3,661,13495,60,28.567087,77.276066
+H0076,Delhi Hotel 76,Delhi,Aerocity,Resort,4,4.6,1049,20787,115,28.676617,77.239304
+H0077,Delhi Hotel 77,Delhi,Connaught Place,Business,4,3.4,1666,14302,233,28.547454,77.201628
+H0078,Delhi Hotel 78,Delhi,Connaught Place,Resort,3,4.3,3273,6917,242,28.673604,77.285259
+H0079,Delhi Hotel 79,Delhi,Aerocity,Boutique,4,4.9,1384,6364,93,28.652191,77.254339
+H0080,Delhi Hotel 80,Delhi,Karol Bagh,Resort,4,4.6,183,19659,149,28.615828,77.177619
+H0081,Delhi Hotel 81,Delhi,Karol Bagh,Luxury,3,3.5,502,7767,73,28.551451,77.287915
+H0082,Delhi Hotel 82,Delhi,Aerocity,Boutique,4,3.3,906,12770,152,28.575877,77.230899
+H0083,Delhi Hotel 83,Delhi,Aerocity,Budget,5,4.2,4970,14474,105,28.587425,77.258948
+H0084,Delhi Hotel 84,Delhi,Aerocity,Budget,3,3.2,3462,16915,182,28.60279,77.261455
+H0085,Delhi Hotel 85,Delhi,Aerocity,Luxury,3,4.0,1397,5876,71,28.577014,77.18351
+H0086,Delhi Hotel 86,Delhi,Karol Bagh,Business,5,3.7,1338,7148,104,28.601119,77.14951
+H0087,Delhi Hotel 87,Delhi,Connaught Place,Boutique,4,4.6,2494,9326,141,28.666533,77.233918
+H0088,Delhi Hotel 88,Delhi,Connaught Place,Resort,3,4.6,2303,19368,70,28.664803,77.275672
+H0089,Delhi Hotel 89,Delhi,Aerocity,Boutique,4,4.4,3740,16906,13,28.684408,77.237206
+H0090,Delhi Hotel 90,Delhi,Karol Bagh,Boutique,3,4.1,1864,21899,110,28.632933,77.265112
+H0091,Delhi Hotel 91,Delhi,Karol Bagh,Luxury,5,4.7,2907,19904,223,28.667335,77.154427
+H0092,Delhi Hotel 92,Delhi,Karol Bagh,Boutique,3,4.8,2964,9565,181,28.643323,77.155235
+H0093,Delhi Hotel 93,Delhi,Karol Bagh,Business,5,3.9,4750,11564,179,28.665008,77.165376
+H0094,Delhi Hotel 94,Delhi,Karol Bagh,Resort,4,3.4,2966,19873,145,28.661362,77.242381
+H0095,Delhi Hotel 95,Delhi,Connaught Place,Luxury,5,4.2,3185,5224,157,28.665005,77.285172
+H0096,Delhi Hotel 96,Delhi,Aerocity,Boutique,3,4.6,1942,8838,37,28.657576,77.137902
+H0097,Delhi Hotel 97,Delhi,Aerocity,Luxury,5,4.8,1962,19011,175,28.588965,77.233306
+H0098,Delhi Hotel 98,Delhi,Aerocity,Business,3,4.6,974,21461,225,28.541177,77.13067
+H0099,Delhi Hotel 99,Delhi,Aerocity,Business,5,3.6,3392,18340,179,28.560673,77.212863
+H0100,Delhi Hotel 100,Delhi,Connaught Place,Budget,3,4.3,1615,5894,242,28.576736,77.163101
+H0101,Delhi Hotel 101,Delhi,Aerocity,Boutique,5,4.1,3410,5912,225,28.636346,77.249498
+H0102,Delhi Hotel 102,Delhi,Karol Bagh,Budget,5,4.3,2802,15320,213,28.562727,77.145459
+H0103,Delhi Hotel 103,Delhi,Connaught Place,Luxury,3,4.8,1439,19340,91,28.583781,77.174175
+H0104,Delhi Hotel 104,Delhi,Karol Bagh,Budget,5,3.5,1926,15272,186,28.674935,77.157769
+H0105,Delhi Hotel 105,Delhi,Connaught Place,Luxury,5,4.6,425,18746,86,28.566201,77.235474
+H0106,Delhi Hotel 106,Delhi,Aerocity,Resort,3,4.5,1205,4768,217,28.560313,77.284108
+H0107,Delhi Hotel 107,Delhi,Karol Bagh,Boutique,3,4.0,2986,8252,74,28.64677,77.268671
+H0108,Delhi Hotel 108,Delhi,Aerocity,Luxury,3,3.7,1494,8604,55,28.637745,77.178664
+H0109,Delhi Hotel 109,Delhi,Aerocity,Luxury,3,3.6,1350,19910,90,28.61472,77.135027
+H0110,Delhi Hotel 110,Delhi,Connaught Place,Luxury,4,4.1,1976,20867,188,28.630867,77.240802
+H0111,Delhi Hotel 111,Delhi,Aerocity,Budget,5,4.0,4374,16726,176,28.608661,77.149386
+H0112,Delhi Hotel 112,Delhi,Aerocity,Budget,3,3.7,389,20834,247,28.681356,77.269304
+H0113,Delhi Hotel 113,Delhi,Connaught Place,Luxury,4,4.5,1793,12942,68,28.686796,77.27164
+H0114,Delhi Hotel 114,Delhi,Aerocity,Business,5,3.4,1146,20144,28,28.652675,77.231716
+H0115,Delhi Hotel 115,Delhi,Connaught Place,Boutique,4,4.9,290,12793,57,28.666383,77.210118
+H0116,Delhi Hotel 116,Delhi,Connaught Place,Resort,3,3.7,2412,10426,202,28.596859,77.251598
+H0117,Delhi Hotel 117,Delhi,Aerocity,Luxury,5,3.6,1235,10216,203,28.689648,77.145164
+H0118,Delhi Hotel 118,Delhi,Karol Bagh,Luxury,4,4.4,1646,20259,52,28.646708,77.266636
+H0119,Delhi Hotel 119,Delhi,Karol Bagh,Resort,4,3.5,4507,6504,146,28.674689,77.252177
+H0120,Delhi Hotel 120,Delhi,Connaught Place,Boutique,4,4.3,561,12638,32,28.664005,77.248532
+H0121,Delhi Hotel 121,Delhi,Aerocity,Boutique,4,4.4,3272,20466,126,28.572827,77.276166
+H0122,Delhi Hotel 122,Delhi,Connaught Place,Budget,3,3.4,4339,19128,159,28.57281,77.20469
+H0123,Delhi Hotel 123,Delhi,Karol Bagh,Business,5,4.1,2307,11155,61,28.662686,77.207688
+H0124,Delhi Hotel 124,Delhi,Karol Bagh,Budget,4,3.6,365,19293,193,28.554841,77.157898
+H0125,Delhi Hotel 125,Delhi,Karol Bagh,Boutique,3,4.2,1376,10040,179,28.676668,77.172802
+H0126,Delhi Hotel 126,Delhi,Aerocity,Luxury,5,4.2,2921,10600,124,28.63159,77.151734
+H0127,Delhi Hotel 127,Delhi,Connaught Place,Budget,5,4.8,2208,8388,81,28.650654,77.16055
+H0128,Delhi Hotel 128,Delhi,Karol Bagh,Luxury,3,3.6,507,8385,214,28.573768,77.28606
+H0129,Delhi Hotel 129,Delhi,Connaught Place,Boutique,5,4.9,756,21783,213,28.585972,77.14284
+H0130,Delhi Hotel 130,Delhi,Karol Bagh,Resort,5,4.8,1995,22034,30,28.558722,77.247007
+H0131,Delhi Hotel 131,Delhi,Karol Bagh,Budget,5,4.2,4212,19139,112,28.685102,77.210289
+H0132,Delhi Hotel 132,Delhi,Aerocity,Budget,3,4.2,1487,7095,244,28.672855,77.141169
+H0133,Delhi Hotel 133,Delhi,Connaught Place,Luxury,4,4.6,2586,21888,210,28.586641,77.248404
+H0134,Delhi Hotel 134,Delhi,Karol Bagh,Boutique,3,3.9,1447,10412,233,28.576062,77.245775
+H0135,Delhi Hotel 135,Delhi,Connaught Place,Resort,5,4.8,1622,21378,102,28.554539,77.184997
+H0136,Delhi Hotel 136,Delhi,Aerocity,Resort,4,4.1,3885,20315,73,28.569146,77.201665
+H0137,Delhi Hotel 137,Delhi,Aerocity,Business,4,4.8,3287,11094,60,28.653918,77.196297
+H0138,Delhi Hotel 138,Delhi,Connaught Place,Budget,5,3.8,2324,10816,153,28.646953,77.17488
+H0139,Delhi Hotel 139,Delhi,Connaught Place,Budget,5,4.2,3632,18274,32,28.68443,77.278037
+H0140,Delhi Hotel 140,Delhi,Aerocity,Resort,3,4.6,476,13321,124,28.68501,77.213923
+H0141,Delhi Hotel 141,Delhi,Karol Bagh,Business,3,4.5,4624,10097,105,28.605451,77.261501
+H0142,Delhi Hotel 142,Delhi,Connaught Place,Budget,3,3.9,1633,7360,246,28.634653,77.266414
+H0143,Delhi Hotel 143,Delhi,Connaught Place,Luxury,4,3.8,2327,14218,79,28.663935,77.195698
+H0144,Delhi Hotel 144,Delhi,Karol Bagh,Budget,5,4.1,4865,19566,206,28.574505,77.258009
+H0145,Delhi Hotel 145,Delhi,Karol Bagh,Luxury,3,4.3,323,11930,196,28.571012,77.160372
+H0146,Delhi Hotel 146,Delhi,Aerocity,Budget,3,4.9,3641,21247,107,28.557022,77.156582
+H0147,Delhi Hotel 147,Delhi,Aerocity,Luxury,4,4.6,1156,21318,112,28.541058,77.140265
+H0148,Delhi Hotel 148,Delhi,Aerocity,Budget,4,3.5,3853,13165,155,28.635962,77.241951
+H0149,Delhi Hotel 149,Delhi,Connaught Place,Boutique,4,4.8,4756,14881,35,28.615783,77.253594
+H0150,Delhi Hotel 150,Delhi,Connaught Place,Business,5,3.9,3785,18055,107,28.670734,77.211017
+H0151,Delhi Hotel 151,Delhi,Aerocity,Business,4,4.4,510,22238,117,28.663116,77.255806
+H0152,Delhi Hotel 152,Delhi,Aerocity,Luxury,3,4.4,4922,11157,33,28.633213,77.225006
+H0153,Delhi Hotel 153,Delhi,Connaught Place,Budget,5,3.6,1378,5357,167,28.589869,77.162329
+H0154,Delhi Hotel 154,Delhi,Connaught Place,Resort,4,3.6,4814,14671,13,28.57034,77.185059
+H0155,Delhi Hotel 155,Delhi,Karol Bagh,Budget,5,4.6,1614,14241,94,28.541755,77.214363
+H0156,Delhi Hotel 156,Delhi,Connaught Place,Budget,5,4.8,3467,21689,171,28.662923,77.237146
+H0157,Delhi Hotel 157,Delhi,Aerocity,Luxury,4,4.8,1299,15478,41,28.648719,77.274044
+H0158,Delhi Hotel 158,Delhi,Aerocity,Luxury,5,3.5,1053,5368,105,28.673445,77.134313
+H0159,Delhi Hotel 159,Delhi,Aerocity,Business,3,3.9,867,13281,89,28.592386,77.170632
+H0160,Delhi Hotel 160,Delhi,Aerocity,Luxury,3,3.5,697,8392,220,28.668472,77.219547
+H0161,Delhi Hotel 161,Delhi,Aerocity,Resort,5,4.1,2260,20855,203,28.539436,77.176034
+H0162,Delhi Hotel 162,Delhi,Aerocity,Luxury,4,4.8,3696,16599,203,28.617918,77.183503
+H0163,Delhi Hotel 163,Delhi,Connaught Place,Luxury,3,4.0,4279,17943,58,28.678545,77.256001
+H0164,Delhi Hotel 164,Delhi,Karol Bagh,Boutique,3,3.7,1171,4795,18,28.666726,77.144439
+H0165,Delhi Hotel 165,Delhi,Karol Bagh,Budget,4,3.7,2497,11912,72,28.534243,77.251191
+H0166,Delhi Hotel 166,Delhi,Connaught Place,Resort,4,3.3,1619,13957,153,28.553017,77.228269
+H0167,Delhi Hotel 167,Delhi,Aerocity,Luxury,4,4.3,1868,22198,91,28.64865,77.156179
+H0168,Delhi Hotel 168,Delhi,Karol Bagh,Budget,5,4.2,1431,5652,173,28.666264,77.243955
+H0169,Delhi Hotel 169,Delhi,Connaught Place,Budget,5,3.6,2058,10115,117,28.590129,77.145061
+H0170,Delhi Hotel 170,Delhi,Karol Bagh,Business,5,3.5,1849,14449,63,28.568162,77.270997
+H0171,Delhi Hotel 171,Delhi,Aerocity,Luxury,4,3.9,1168,16912,14,28.689474,77.135947
+H0172,Delhi Hotel 172,Delhi,Connaught Place,Luxury,3,4.7,3688,13487,101,28.580467,77.142419
+H0173,Delhi Hotel 173,Delhi,Connaught Place,Business,3,3.8,862,12472,161,28.672439,77.16071
+H0174,Delhi Hotel 174,Delhi,Connaught Place,Boutique,4,3.3,725,19326,90,28.620976,77.139838
+H0175,Delhi Hotel 175,Delhi,Karol Bagh,Luxury,3,3.6,4158,7467,201,28.564894,77.259474
+H0176,Delhi Hotel 176,Delhi,Aerocity,Resort,5,4.5,4223,11890,156,28.686814,77.229777
+H0177,Delhi Hotel 177,Delhi,Karol Bagh,Luxury,3,3.7,656,21110,215,28.545268,77.212285
+H0178,Delhi Hotel 178,Delhi,Aerocity,Resort,4,3.7,4813,12259,23,28.655639,77.211606
+H0179,Delhi Hotel 179,Delhi,Connaught Place,Budget,4,3.5,2327,8444,226,28.557371,77.223871
+H0180,Delhi Hotel 180,Delhi,Connaught Place,Budget,4,4.6,3895,18504,65,28.691884,77.25384
+H0181,Delhi Hotel 181,Delhi,Aerocity,Budget,4,3.5,4723,4940,26,28.661526,77.135866
+H0182,Delhi Hotel 182,Delhi,Connaught Place,Business,4,3.3,1391,19204,137,28.606803,77.17713
+H0183,Delhi Hotel 183,Delhi,Connaught Place,Luxury,3,3.9,1488,13132,64,28.626246,77.225071
+H0184,Delhi Hotel 184,Delhi,Karol Bagh,Budget,5,3.4,1702,6241,20,28.594953,77.255302
+H0185,Delhi Hotel 185,Delhi,Aerocity,Luxury,4,3.5,2093,7869,168,28.573547,77.198742
+H0186,Delhi Hotel 186,Delhi,Connaught Place,Resort,5,4.7,3676,6728,190,28.642122,77.280587
+H0187,Delhi Hotel 187,Delhi,Aerocity,Boutique,4,4.8,2117,8638,102,28.5494,77.196668
+H0188,Delhi Hotel 188,Delhi,Aerocity,Budget,5,3.3,1193,12978,222,28.558603,77.270221
+H0189,Delhi Hotel 189,Delhi,Karol Bagh,Resort,5,4.4,2497,13905,10,28.617368,77.142867
+H0190,Delhi Hotel 190,Delhi,Karol Bagh,Luxury,3,3.5,1204,9992,202,28.61422,77.284227
+H0191,Delhi Hotel 191,Delhi,Karol Bagh,Boutique,3,3.7,3651,20827,94,28.67068,77.277994
+H0192,Delhi Hotel 192,Delhi,Karol Bagh,Business,4,4.0,3388,16420,67,28.633483,77.278294
+H0193,Delhi Hotel 193,Delhi,Aerocity,Business,3,4.6,3354,13839,112,28.616169,77.190528
+H0194,Delhi Hotel 194,Delhi,Aerocity,Resort,4,3.8,3390,19497,90,28.6804,77.276868
+H0195,Delhi Hotel 195,Delhi,Aerocity,Budget,5,4.1,2242,17030,191,28.56538,77.144091
+H0196,Delhi Hotel 196,Delhi,Karol Bagh,Luxury,5,3.9,3127,8302,93,28.687804,77.164083
+H0197,Delhi Hotel 197,Delhi,Connaught Place,Budget,5,4.4,2800,11791,112,28.647111,77.219621
+H0198,Delhi Hotel 198,Delhi,Connaught Place,Resort,3,3.3,1846,16919,28,28.565135,77.141404
+H0199,Delhi Hotel 199,Delhi,Aerocity,Resort,4,3.7,3427,8785,43,28.574727,77.15667
+H0200,Delhi Hotel 200,Delhi,Aerocity,Budget,3,3.2,387,10917,193,28.574954,77.168967
+H0201,Delhi Hotel 201,Delhi,Connaught Place,Business,5,4.8,4277,7463,90,28.559606,77.252063
+H0202,Delhi Hotel 202,Delhi,Connaught Place,Luxury,3,3.7,1546,16063,39,28.633866,77.204681
+H0203,Delhi Hotel 203,Delhi,Connaught Place,Boutique,4,3.9,190,7385,89,28.62345,77.259966
+H0204,Delhi Hotel 204,Delhi,Connaught Place,Boutique,5,4.9,247,6771,125,28.542502,77.209687
+H0205,Delhi Hotel 205,Delhi,Karol Bagh,Budget,5,3.5,1746,16628,95,28.584777,77.212836
+H0206,Delhi Hotel 206,Delhi,Aerocity,Boutique,5,4.5,1643,21307,196,28.604373,77.247877
+H0207,Delhi Hotel 207,Delhi,Aerocity,Resort,4,3.4,3170,21782,67,28.603455,77.283018
+H0208,Delhi Hotel 208,Delhi,Karol Bagh,Budget,4,4.5,4574,13185,66,28.572052,77.172893
+H0209,Delhi Hotel 209,Delhi,Aerocity,Boutique,3,4.7,810,5654,140,28.644607,77.240943
+H0210,Delhi Hotel 210,Delhi,Aerocity,Boutique,5,3.4,4306,9775,105,28.598847,77.131162
+H0211,Delhi Hotel 211,Delhi,Karol Bagh,Luxury,5,4.6,806,4884,68,28.535985,77.207863
+H0212,Delhi Hotel 212,Delhi,Connaught Place,Business,3,4.5,911,5693,220,28.574202,77.27388
+H0213,Delhi Hotel 213,Delhi,Aerocity,Resort,4,3.2,2137,12085,210,28.572019,77.263887
+H0214,Delhi Hotel 214,Delhi,Aerocity,Business,5,4.5,3565,17232,163,28.547732,77.230971
+H0215,Delhi Hotel 215,Delhi,Connaught Place,Resort,3,4.5,830,17179,172,28.548701,77.269784
+H0216,Delhi Hotel 216,Delhi,Aerocity,Business,3,3.8,2989,10977,139,28.609774,77.130592
+H0217,Delhi Hotel 217,Delhi,Karol Bagh,Business,5,4.9,3792,9395,41,28.582548,77.207913
+H0218,Delhi Hotel 218,Delhi,Karol Bagh,Luxury,3,4.3,4572,8449,103,28.683129,77.183199
+H0219,Delhi Hotel 219,Delhi,Karol Bagh,Budget,4,4.6,2160,16580,136,28.617922,77.250932
+H0220,Delhi Hotel 220,Delhi,Karol Bagh,Boutique,5,4.3,3018,9958,109,28.591136,77.271335
+H0221,Mumbai Hotel 1,Mumbai,Andheri,Boutique,4,4.0,278,16498,24,19.051517,72.900825
+H0222,Mumbai Hotel 2,Mumbai,Andheri,Luxury,5,3.8,4015,12082,99,19.134461,72.829394
+H0223,Mumbai Hotel 3,Mumbai,Colaba,Luxury,5,3.5,2778,19494,39,19.073288,72.826334
+H0224,Mumbai Hotel 4,Mumbai,Bandra,Business,5,3.5,3253,21942,134,19.087911,72.948318
+H0225,Mumbai Hotel 5,Mumbai,Colaba,Boutique,4,3.4,1937,12233,194,19.07804,72.933663
+H0226,Mumbai Hotel 6,Mumbai,Andheri,Resort,5,3.2,4747,22326,175,19.036771,72.890447
+H0227,Mumbai Hotel 7,Mumbai,Bandra,Luxury,5,4.5,1951,14880,183,19.143415,72.900483
+H0228,Mumbai Hotel 8,Mumbai,Colaba,Resort,5,4.7,3664,16220,87,19.022377,72.915137
+H0229,Mumbai Hotel 9,Mumbai,Bandra,Business,4,3.6,3103,20844,120,19.050068,72.888755
+H0230,Mumbai Hotel 10,Mumbai,Colaba,Luxury,3,3.4,1576,16466,185,19.135268,72.832176
+H0231,Mumbai Hotel 11,Mumbai,Andheri,Boutique,4,4.9,2225,20530,65,19.07255,72.824836
+H0232,Mumbai Hotel 12,Mumbai,Bandra,Business,4,4.1,1430,17129,130,19.054427,72.832375
+H0233,Mumbai Hotel 13,Mumbai,Andheri,Business,3,3.4,2990,22339,194,19.007184,72.864861
+H0234,Mumbai Hotel 14,Mumbai,Andheri,Business,4,4.1,3503,18771,161,19.009444,72.800837
+H0235,Mumbai Hotel 15,Mumbai,Colaba,Business,3,3.6,901,16622,54,19.130087,72.859308
+H0236,Mumbai Hotel 16,Mumbai,Andheri,Luxury,3,4.4,3879,19077,34,19.073193,72.920219
+H0237,Mumbai Hotel 17,Mumbai,Andheri,Luxury,3,3.6,3275,9107,137,19.134041,72.832989
+H0238,Mumbai Hotel 18,Mumbai,Andheri,Resort,5,3.3,2215,18516,47,19.05756,72.879794
+H0239,Mumbai Hotel 19,Mumbai,Andheri,Resort,3,4.0,2678,16841,75,19.147079,72.873935
+H0240,Mumbai Hotel 20,Mumbai,Bandra,Budget,4,4.2,2062,19703,98,19.01917,72.945394
+H0241,Mumbai Hotel 21,Mumbai,Colaba,Budget,5,4.7,3043,7963,239,19.113593,72.928237
+H0242,Mumbai Hotel 22,Mumbai,Colaba,Resort,3,4.2,2728,22900,207,19.040236,72.935746
+H0243,Mumbai Hotel 23,Mumbai,Andheri,Luxury,4,4.4,2686,20449,51,19.140879,72.81778
+H0244,Mumbai Hotel 24,Mumbai,Bandra,Business,4,4.1,2125,12529,134,19.108153,72.902052
+H0245,Mumbai Hotel 25,Mumbai,Bandra,Luxury,5,4.2,1793,7336,230,19.056635,72.823597
+H0246,Mumbai Hotel 26,Mumbai,Colaba,Luxury,5,4.6,987,16546,111,19.147844,72.920994
+H0247,Mumbai Hotel 27,Mumbai,Andheri,Resort,5,4.6,4688,14139,167,19.045583,72.836882
+H0248,Mumbai Hotel 28,Mumbai,Andheri,Budget,3,3.6,4064,23045,229,19.05946,72.869728
+H0249,Mumbai Hotel 29,Mumbai,Bandra,Budget,5,3.6,3341,15724,69,19.032717,72.911149
+H0250,Mumbai Hotel 30,Mumbai,Colaba,Luxury,5,3.7,698,13236,101,19.064153,72.902741
+H0251,Mumbai Hotel 31,Mumbai,Bandra,Budget,3,3.4,3396,20625,187,19.092566,72.811697
+H0252,Mumbai Hotel 32,Mumbai,Andheri,Boutique,5,4.4,1546,12251,178,19.086887,72.862856
+H0253,Mumbai Hotel 33,Mumbai,Colaba,Business,4,3.3,4020,13184,60,19.017674,72.917266
+H0254,Mumbai Hotel 34,Mumbai,Colaba,Budget,3,3.4,1126,14012,44,19.073507,72.910061
+H0255,Mumbai Hotel 35,Mumbai,Andheri,Luxury,5,3.6,3668,18446,157,19.08169,72.938865
+H0256,Mumbai Hotel 36,Mumbai,Colaba,Business,5,4.5,1215,15400,234,19.116564,72.888711
+H0257,Mumbai Hotel 37,Mumbai,Colaba,Boutique,5,3.7,1786,19946,112,19.034727,72.878291
+H0258,Mumbai Hotel 38,Mumbai,Colaba,Budget,4,4.3,2622,16437,94,19.054312,72.906836
+H0259,Mumbai Hotel 39,Mumbai,Bandra,Budget,5,3.6,2501,18771,206,19.018763,72.814514
+H0260,Mumbai Hotel 40,Mumbai,Colaba,Business,4,3.9,4715,18279,147,19.002346,72.932571
+H0261,Mumbai Hotel 41,Mumbai,Colaba,Business,5,3.3,3024,21468,31,19.069779,72.864901
+H0262,Mumbai Hotel 42,Mumbai,Colaba,Budget,5,4.0,2285,16947,223,19.09703,72.889276
+H0263,Mumbai Hotel 43,Mumbai,Colaba,Resort,5,4.5,4398,21616,134,19.041827,72.809327
+H0264,Mumbai Hotel 44,Mumbai,Andheri,Business,3,4.5,4483,18079,215,19.095557,72.952891
+H0265,Mumbai Hotel 45,Mumbai,Andheri,Resort,5,4.5,2621,11337,71,19.08143,72.919219
+H0266,Mumbai Hotel 46,Mumbai,Andheri,Luxury,3,4.7,4659,11653,243,19.147725,72.821291
+H0267,Mumbai Hotel 47,Mumbai,Bandra,Luxury,4,4.3,2031,16032,107,19.032941,72.941746
+H0268,Mumbai Hotel 48,Mumbai,Colaba,Luxury,4,4.3,4225,7656,68,19.079326,72.903706
+H0269,Mumbai Hotel 49,Mumbai,Colaba,Business,4,4.8,4985,20418,104,19.07207,72.844063
+H0270,Mumbai Hotel 50,Mumbai,Bandra,Business,4,3.4,245,24998,57,19.061903,72.915557
+H0271,Mumbai Hotel 51,Mumbai,Andheri,Budget,5,4.0,3968,9941,218,19.101284,72.835759
+H0272,Mumbai Hotel 52,Mumbai,Colaba,Budget,4,4.4,4887,7554,77,19.063265,72.812335
+H0273,Mumbai Hotel 53,Mumbai,Colaba,Business,3,3.6,2315,15953,68,19.089769,72.91062
+H0274,Mumbai Hotel 54,Mumbai,Colaba,Budget,4,4.0,870,19948,47,19.104037,72.852644
+H0275,Mumbai Hotel 55,Mumbai,Colaba,Resort,5,4.6,3088,16306,74,19.031255,72.804804
+H0276,Mumbai Hotel 56,Mumbai,Andheri,Boutique,4,3.7,3113,14671,57,19.154801,72.843606
+H0277,Mumbai Hotel 57,Mumbai,Colaba,Resort,4,4.6,1562,21227,87,19.021023,72.938975
+H0278,Mumbai Hotel 58,Mumbai,Bandra,Boutique,4,4.6,4790,24806,132,19.028924,72.860539
+H0279,Mumbai Hotel 59,Mumbai,Colaba,Luxury,5,3.6,4140,9511,215,19.062606,72.945303
+H0280,Mumbai Hotel 60,Mumbai,Bandra,Budget,4,4.9,1844,21984,49,19.00741,72.869519
+H0281,Mumbai Hotel 61,Mumbai,Andheri,Budget,4,3.2,677,8429,141,19.060082,72.83013
+H0282,Mumbai Hotel 62,Mumbai,Andheri,Luxury,5,3.3,2170,9940,65,19.141434,72.819001
+H0283,Mumbai Hotel 63,Mumbai,Andheri,Budget,4,4.1,2821,20316,164,19.012497,72.888278
+H0284,Mumbai Hotel 64,Mumbai,Andheri,Luxury,3,4.6,3712,12437,11,19.137387,72.852202
+H0285,Mumbai Hotel 65,Mumbai,Bandra,Budget,5,4.7,1924,7332,12,19.074943,72.921958
+H0286,Mumbai Hotel 66,Mumbai,Colaba,Luxury,4,3.7,1352,22099,103,19.025027,72.908062
+H0287,Mumbai Hotel 67,Mumbai,Colaba,Budget,5,4.5,2150,17045,99,19.088857,72.905344
+H0288,Mumbai Hotel 68,Mumbai,Colaba,Resort,4,3.4,2529,8155,77,19.129516,72.845561
+H0289,Mumbai Hotel 69,Mumbai,Bandra,Resort,4,3.7,3827,23940,124,19.085899,72.815892
+H0290,Mumbai Hotel 70,Mumbai,Bandra,Budget,3,4.7,3070,14828,106,19.081319,72.841021
+H0291,Mumbai Hotel 71,Mumbai,Andheri,Resort,5,4.8,453,20593,178,19.004706,72.886349
+H0292,Mumbai Hotel 72,Mumbai,Colaba,Budget,5,3.8,2473,10400,197,19.002938,72.921333
+H0293,Mumbai Hotel 73,Mumbai,Colaba,Business,3,4.7,4596,13199,141,19.100712,72.907463
+H0294,Mumbai Hotel 74,Mumbai,Bandra,Business,5,4.3,782,24521,94,19.072638,72.957064
+H0295,Mumbai Hotel 75,Mumbai,Colaba,Boutique,3,3.9,4947,20714,91,18.999141,72.946794
+H0296,Mumbai Hotel 76,Mumbai,Colaba,Boutique,4,4.7,1141,9327,189,19.139973,72.832357
+H0297,Mumbai Hotel 77,Mumbai,Bandra,Luxury,3,4.5,4454,20229,226,19.126115,72.895832
+H0298,Mumbai Hotel 78,Mumbai,Colaba,Luxury,5,4.9,1028,20823,74,19.118618,72.945215
+H0299,Mumbai Hotel 79,Mumbai,Bandra,Resort,4,4.8,2110,18048,204,19.121518,72.802335
+H0300,Mumbai Hotel 80,Mumbai,Andheri,Budget,4,4.0,863,23919,231,19.098458,72.863691
+H0301,Mumbai Hotel 81,Mumbai,Bandra,Luxury,5,3.7,1791,13758,172,19.029241,72.946891
+H0302,Mumbai Hotel 82,Mumbai,Colaba,Boutique,4,4.5,2348,19937,100,19.065007,72.841429
+H0303,Mumbai Hotel 83,Mumbai,Bandra,Boutique,5,3.5,1864,23665,60,19.040733,72.867171
+H0304,Mumbai Hotel 84,Mumbai,Colaba,Boutique,5,4.3,2719,16148,224,19.14214,72.919123
+H0305,Mumbai Hotel 85,Mumbai,Andheri,Luxury,3,3.7,3221,10307,196,19.06248,72.828832
+H0306,Mumbai Hotel 86,Mumbai,Bandra,Budget,4,3.4,1806,19357,74,19.078528,72.815333
+H0307,Mumbai Hotel 87,Mumbai,Colaba,Resort,5,3.5,3227,13148,216,19.003361,72.798971
+H0308,Mumbai Hotel 88,Mumbai,Andheri,Budget,5,3.3,2151,15503,32,19.139418,72.841867
+H0309,Mumbai Hotel 89,Mumbai,Bandra,Luxury,3,3.4,3329,19707,10,19.085042,72.86709
+H0310,Mumbai Hotel 90,Mumbai,Bandra,Budget,5,4.8,2476,15296,213,19.109644,72.809164
+H0311,Mumbai Hotel 91,Mumbai,Bandra,Boutique,5,3.4,3628,24299,165,19.113073,72.941419
+H0312,Mumbai Hotel 92,Mumbai,Andheri,Business,4,4.3,4138,7207,218,19.030419,72.946881
+H0313,Mumbai Hotel 93,Mumbai,Colaba,Boutique,3,3.8,4670,12695,142,19.017027,72.916893
+H0314,Mumbai Hotel 94,Mumbai,Bandra,Resort,5,4.4,3289,10280,113,19.08166,72.86348
+H0315,Mumbai Hotel 95,Mumbai,Bandra,Boutique,3,4.2,3753,10003,125,19.048842,72.814446
+H0316,Mumbai Hotel 96,Mumbai,Andheri,Resort,5,3.3,4231,8401,159,19.15555,72.895343
+H0317,Mumbai Hotel 97,Mumbai,Bandra,Budget,4,4.0,154,15241,29,19.031801,72.808018
+H0318,Mumbai Hotel 98,Mumbai,Andheri,Budget,4,3.6,1510,12445,240,19.012174,72.955298
+H0319,Mumbai Hotel 99,Mumbai,Colaba,Budget,4,4.0,1744,16876,138,19.036672,72.914302
+H0320,Mumbai Hotel 100,Mumbai,Colaba,Budget,3,3.8,518,9383,120,19.09147,72.949913
+H0321,Mumbai Hotel 101,Mumbai,Colaba,Luxury,4,4.1,2585,11906,228,19.028905,72.813585
+H0322,Mumbai Hotel 102,Mumbai,Colaba,Boutique,4,4.6,2424,22245,126,19.137349,72.849164
+H0323,Mumbai Hotel 103,Mumbai,Colaba,Resort,3,4.7,1486,8079,102,19.097863,72.922931
+H0324,Mumbai Hotel 104,Mumbai,Bandra,Boutique,3,4.6,3117,18347,136,19.050536,72.946206
+H0325,Mumbai Hotel 105,Mumbai,Bandra,Resort,4,4.5,1198,16872,211,19.104286,72.917159
+H0326,Mumbai Hotel 106,Mumbai,Andheri,Boutique,5,3.5,4824,21063,128,19.052595,72.845419
+H0327,Mumbai Hotel 107,Mumbai,Colaba,Resort,4,3.9,741,8043,216,19.030195,72.858487
+H0328,Mumbai Hotel 108,Mumbai,Colaba,Resort,3,4.4,4476,7782,43,19.144447,72.826306
+H0329,Mumbai Hotel 109,Mumbai,Andheri,Luxury,4,4.0,2164,15465,115,19.088255,72.858031
+H0330,Mumbai Hotel 110,Mumbai,Andheri,Budget,3,4.7,1438,23444,36,19.090917,72.918406
+H0331,Mumbai Hotel 111,Mumbai,Andheri,Luxury,5,4.6,2022,10450,14,19.144098,72.801988
+H0332,Mumbai Hotel 112,Mumbai,Bandra,Budget,5,4.6,3268,15814,156,19.036389,72.931725
+H0333,Mumbai Hotel 113,Mumbai,Andheri,Luxury,5,4.1,1234,13478,103,19.086164,72.839515
+H0334,Mumbai Hotel 114,Mumbai,Andheri,Business,5,4.5,3326,22881,152,19.000687,72.953208
+H0335,Mumbai Hotel 115,Mumbai,Andheri,Luxury,5,3.7,4530,14291,183,19.000489,72.956459
+H0336,Mumbai Hotel 116,Mumbai,Bandra,Resort,3,3.7,3861,16659,59,19.023188,72.918329
+H0337,Mumbai Hotel 117,Mumbai,Colaba,Boutique,5,4.2,4836,16877,172,19.14173,72.811259
+H0338,Mumbai Hotel 118,Mumbai,Andheri,Boutique,3,3.9,2004,22060,48,19.095852,72.801431
+H0339,Mumbai Hotel 119,Mumbai,Colaba,Resort,3,4.1,4611,14724,194,19.131279,72.828668
+H0340,Mumbai Hotel 120,Mumbai,Bandra,Boutique,4,3.8,2214,15420,202,19.052716,72.862656
+H0341,Mumbai Hotel 121,Mumbai,Andheri,Business,4,3.9,3782,11766,217,19.033006,72.88
+H0342,Mumbai Hotel 122,Mumbai,Bandra,Luxury,3,3.7,2963,14769,54,19.031676,72.801125
+H0343,Mumbai Hotel 123,Mumbai,Bandra,Luxury,3,4.7,3897,13644,97,19.099681,72.828994
+H0344,Mumbai Hotel 124,Mumbai,Colaba,Budget,5,4.5,804,16907,173,19.11682,72.814932
+H0345,Mumbai Hotel 125,Mumbai,Colaba,Business,4,4.6,2029,13065,65,19.143929,72.952605
+H0346,Mumbai Hotel 126,Mumbai,Colaba,Boutique,4,4.8,587,7030,98,19.132878,72.846658
+H0347,Mumbai Hotel 127,Mumbai,Bandra,Business,3,4.7,4865,8415,208,19.0695,72.803601
+H0348,Mumbai Hotel 128,Mumbai,Bandra,Business,5,4.5,2192,13529,19,19.059395,72.920815
+H0349,Mumbai Hotel 129,Mumbai,Bandra,Boutique,3,4.2,3425,22508,80,19.150821,72.853098
+H0350,Mumbai Hotel 130,Mumbai,Bandra,Boutique,3,3.6,3518,22922,242,19.016948,72.891012
+H0351,Mumbai Hotel 131,Mumbai,Andheri,Business,3,3.5,4882,17094,181,19.014864,72.831173
+H0352,Mumbai Hotel 132,Mumbai,Bandra,Business,3,3.8,1239,24245,40,19.152687,72.880705
+H0353,Mumbai Hotel 133,Mumbai,Bandra,Business,5,3.7,4184,20658,214,19.0461,72.812471
+H0354,Mumbai Hotel 134,Mumbai,Colaba,Business,5,3.8,104,24196,245,19.122471,72.820572
+H0355,Mumbai Hotel 135,Mumbai,Andheri,Luxury,3,4.6,3697,18371,74,19.008193,72.816625
+H0356,Mumbai Hotel 136,Mumbai,Colaba,Boutique,3,3.3,1367,24576,210,19.110806,72.802946
+H0357,Mumbai Hotel 137,Mumbai,Andheri,Resort,4,3.4,177,11004,44,19.141786,72.803152
+H0358,Mumbai Hotel 138,Mumbai,Colaba,Budget,5,3.6,3951,21200,190,19.067972,72.908395
+H0359,Mumbai Hotel 139,Mumbai,Bandra,Business,4,3.8,1647,23926,234,19.080652,72.847607
+H0360,Mumbai Hotel 140,Mumbai,Colaba,Boutique,3,3.7,815,11332,67,19.110089,72.85172
+H0361,Mumbai Hotel 141,Mumbai,Colaba,Business,3,4.9,3515,14845,84,19.152225,72.906934
+H0362,Mumbai Hotel 142,Mumbai,Colaba,Resort,4,4.2,1042,13809,180,19.093332,72.881722
+H0363,Mumbai Hotel 143,Mumbai,Andheri,Business,3,3.4,3053,18820,99,19.115102,72.929336
+H0364,Mumbai Hotel 144,Mumbai,Bandra,Budget,3,3.3,4109,7251,119,19.110553,72.858998
+H0365,Mumbai Hotel 145,Mumbai,Andheri,Resort,5,4.5,2925,9483,112,19.121453,72.930171
+H0366,Mumbai Hotel 146,Mumbai,Bandra,Resort,3,3.6,4664,13802,236,19.137872,72.931004
+H0367,Mumbai Hotel 147,Mumbai,Andheri,Budget,5,4.6,323,20129,138,19.130902,72.861898
+H0368,Mumbai Hotel 148,Mumbai,Bandra,Resort,5,3.3,1159,15466,215,18.998337,72.936879
+H0369,Mumbai Hotel 149,Mumbai,Bandra,Business,3,3.7,754,15838,78,19.036735,72.951949
+H0370,Mumbai Hotel 150,Mumbai,Colaba,Resort,4,4.6,2275,22195,38,19.106781,72.82448
+H0371,Mumbai Hotel 151,Mumbai,Bandra,Resort,5,3.6,4813,16465,75,19.106411,72.903269
+H0372,Mumbai Hotel 152,Mumbai,Bandra,Business,5,3.2,4123,9568,50,19.067664,72.907025
+H0373,Mumbai Hotel 153,Mumbai,Bandra,Luxury,3,4.1,530,12563,110,18.996708,72.849101
+H0374,Mumbai Hotel 154,Mumbai,Colaba,Budget,4,4.8,2420,19579,192,19.00234,72.883649
+H0375,Mumbai Hotel 155,Mumbai,Bandra,Boutique,3,4.8,1545,23998,115,18.999926,72.813792
+H0376,Mumbai Hotel 156,Mumbai,Bandra,Business,4,4.5,775,10701,144,19.108301,72.811686
+H0377,Mumbai Hotel 157,Mumbai,Andheri,Budget,4,3.7,1688,10051,72,19.087155,72.866867
+H0378,Mumbai Hotel 158,Mumbai,Bandra,Boutique,4,3.7,3435,21388,239,19.110341,72.848414
+H0379,Mumbai Hotel 159,Mumbai,Andheri,Business,3,3.7,771,23161,121,19.126732,72.942675
+H0380,Mumbai Hotel 160,Mumbai,Andheri,Boutique,3,4.5,3965,24020,223,19.078248,72.857147
+H0381,Mumbai Hotel 161,Mumbai,Andheri,Business,4,4.5,2367,20396,207,19.139405,72.898413
+H0382,Mumbai Hotel 162,Mumbai,Bandra,Budget,3,3.7,2220,14313,139,19.122073,72.802626
+H0383,Mumbai Hotel 163,Mumbai,Andheri,Resort,3,4.7,1534,15783,49,19.03782,72.946061
+H0384,Mumbai Hotel 164,Mumbai,Andheri,Luxury,3,3.4,422,7382,75,19.0753,72.934164
+H0385,Mumbai Hotel 165,Mumbai,Colaba,Business,3,4.5,2962,17952,45,19.085194,72.823844
+H0386,Mumbai Hotel 166,Mumbai,Colaba,Budget,5,4.8,4252,12598,172,19.031537,72.88775
+H0387,Mumbai Hotel 167,Mumbai,Andheri,Resort,3,4.2,1209,12348,13,19.003304,72.80155
+H0388,Mumbai Hotel 168,Mumbai,Colaba,Budget,4,4.9,2521,7533,249,19.080965,72.936874
+H0389,Mumbai Hotel 169,Mumbai,Colaba,Luxury,5,4.4,2453,24515,213,19.143507,72.951279
+H0390,Mumbai Hotel 170,Mumbai,Andheri,Luxury,5,4.8,2272,22996,17,19.152548,72.896867
+H0391,Mumbai Hotel 171,Mumbai,Bandra,Budget,5,3.7,4305,14474,227,18.997382,72.857345
+H0392,Mumbai Hotel 172,Mumbai,Bandra,Resort,4,4.4,4002,14217,237,19.138972,72.799672
+H0393,Mumbai Hotel 173,Mumbai,Colaba,Resort,4,3.6,4815,14902,146,19.145044,72.882433
+H0394,Mumbai Hotel 174,Mumbai,Andheri,Budget,4,4.0,3096,11846,250,19.062203,72.8071
+H0395,Mumbai Hotel 175,Mumbai,Bandra,Luxury,5,3.3,2993,13446,154,19.116084,72.859234
+H0396,Mumbai Hotel 176,Mumbai,Colaba,Business,5,3.9,2176,16573,109,19.092386,72.907653
+H0397,Mumbai Hotel 177,Mumbai,Bandra,Resort,5,3.9,2264,11293,156,19.107046,72.953964
+H0398,Mumbai Hotel 178,Mumbai,Bandra,Luxury,3,4.5,3436,22348,158,19.022207,72.936909
+H0399,Mumbai Hotel 179,Mumbai,Colaba,Resort,5,3.7,3084,13027,193,19.024297,72.860033
+H0400,Mumbai Hotel 180,Mumbai,Colaba,Budget,5,4.6,514,11543,210,19.038572,72.820353
+H0401,Mumbai Hotel 181,Mumbai,Andheri,Budget,3,3.4,3275,17939,28,19.150748,72.827657
+H0402,Mumbai Hotel 182,Mumbai,Andheri,Boutique,4,3.6,4311,20017,168,19.136336,72.886621
+H0403,Mumbai Hotel 183,Mumbai,Bandra,Budget,4,4.1,2752,11699,151,19.059762,72.808924
+H0404,Mumbai Hotel 184,Mumbai,Bandra,Business,4,3.7,2141,7184,56,18.996909,72.910307
+H0405,Mumbai Hotel 185,Mumbai,Colaba,Budget,4,3.8,784,11509,93,19.129622,72.940166
+H0406,Mumbai Hotel 186,Mumbai,Colaba,Resort,5,3.4,1762,7843,165,19.137825,72.864854
+H0407,Mumbai Hotel 187,Mumbai,Bandra,Boutique,5,3.8,2523,9471,99,19.107512,72.90379
+H0408,Mumbai Hotel 188,Mumbai,Andheri,Boutique,3,4.2,637,16932,46,19.014945,72.947906
+H0409,Mumbai Hotel 189,Mumbai,Andheri,Budget,5,3.9,391,19232,37,19.093041,72.839383
+H0410,Mumbai Hotel 190,Mumbai,Colaba,Budget,5,3.6,2871,13068,85,19.077018,72.953974
+H0411,Goa Hotel 1,Goa,Baga,Boutique,3,3.9,1341,9001,247,15.32628,74.18199
+H0412,Goa Hotel 2,Goa,Panaji,Business,4,4.8,4919,7511,10,15.297735,74.111656
+H0413,Goa Hotel 3,Goa,Panaji,Resort,4,3.6,976,8881,111,15.225376,74.192869
+H0414,Goa Hotel 4,Goa,Panaji,Boutique,4,4.2,82,18303,28,15.227175,74.161985
+H0415,Goa Hotel 5,Goa,Baga,Business,3,4.4,3145,7104,87,15.273175,74.062933
+H0416,Goa Hotel 6,Goa,Calangute,Resort,5,4.5,3645,6891,195,15.236311,74.108241
+H0417,Goa Hotel 7,Goa,Panaji,Business,4,4.4,4818,20467,61,15.320853,74.174219
+H0418,Goa Hotel 8,Goa,Baga,Resort,5,3.5,950,23123,224,15.264226,74.168572
+H0419,Goa Hotel 9,Goa,Calangute,Business,3,4.2,2566,9939,42,15.325544,74.092864
+H0420,Goa Hotel 10,Goa,Panaji,Resort,3,4.6,978,19048,225,15.268538,74.106607
+H0421,Goa Hotel 11,Goa,Baga,Business,3,4.6,2071,22013,17,15.219796,74.163546
+H0422,Goa Hotel 12,Goa,Calangute,Boutique,5,3.2,1754,8586,104,15.236397,74.195702
+H0423,Goa Hotel 13,Goa,Calangute,Budget,5,4.4,3653,14509,240,15.349766,74.063906
+H0424,Goa Hotel 14,Goa,Calangute,Boutique,5,4.5,1886,15222,225,15.336669,74.055783
+H0425,Goa Hotel 15,Goa,Panaji,Luxury,5,4.8,3354,13460,161,15.329449,74.192708
+H0426,Goa Hotel 16,Goa,Calangute,Luxury,5,3.6,4652,6864,78,15.259892,74.114688
+H0427,Goa Hotel 17,Goa,Panaji,Budget,3,3.3,53,22560,40,15.326523,74.114682
+H0428,Goa Hotel 18,Goa,Baga,Luxury,3,3.5,1905,9730,91,15.229979,74.135942
+H0429,Goa Hotel 19,Goa,Panaji,Resort,3,4.7,4206,14637,104,15.237261,74.094022
+H0430,Goa Hotel 20,Goa,Calangute,Resort,3,4.5,3801,21229,74,15.261749,74.132373
+H0431,Goa Hotel 21,Goa,Baga,Luxury,5,4.5,4504,23011,52,15.311303,74.180842
+H0432,Goa Hotel 22,Goa,Panaji,Budget,4,3.8,4930,16148,27,15.247726,74.081701
+H0433,Goa Hotel 23,Goa,Baga,Budget,4,4.1,2183,20063,31,15.378319,74.052295
+H0434,Goa Hotel 24,Goa,Panaji,Boutique,4,4.2,3596,6167,130,15.285945,74.111923
+H0435,Goa Hotel 25,Goa,Baga,Business,5,4.7,4779,8057,227,15.375871,74.128263
+H0436,Goa Hotel 26,Goa,Baga,Luxury,3,3.2,3851,11855,31,15.325787,74.106049
+H0437,Goa Hotel 27,Goa,Baga,Business,5,4.5,3703,8549,228,15.273427,74.077896
+H0438,Goa Hotel 28,Goa,Baga,Boutique,4,4.1,3625,17444,155,15.274654,74.133543
+H0439,Goa Hotel 29,Goa,Calangute,Business,5,3.4,4876,7992,123,15.252634,74.089393
+H0440,Goa Hotel 30,Goa,Baga,Resort,3,3.6,3203,21129,67,15.299842,74.125243
+H0441,Goa Hotel 31,Goa,Calangute,Budget,3,4.2,2972,17529,44,15.323781,74.115935
+H0442,Goa Hotel 32,Goa,Panaji,Resort,3,3.7,4077,19666,158,15.320284,74.155834
+H0443,Goa Hotel 33,Goa,Baga,Business,3,4.6,669,14633,47,15.286228,74.177173
+H0444,Goa Hotel 34,Goa,Panaji,Luxury,4,4.6,840,14982,241,15.350314,74.180689
+H0445,Goa Hotel 35,Goa,Panaji,Business,4,4.9,720,15829,51,15.308355,74.162657
+H0446,Goa Hotel 36,Goa,Panaji,Luxury,3,3.9,1120,6601,51,15.273314,74.169784
+H0447,Goa Hotel 37,Goa,Panaji,Boutique,3,3.6,2578,22354,224,15.293064,74.06816
+H0448,Goa Hotel 38,Goa,Baga,Business,4,4.4,3247,7463,238,15.234375,74.137216
+H0449,Goa Hotel 39,Goa,Panaji,Business,4,4.0,809,8473,225,15.342135,74.148722
+H0450,Goa Hotel 40,Goa,Baga,Budget,3,4.3,4977,22242,187,15.233365,74.103371
+H0451,Goa Hotel 41,Goa,Calangute,Luxury,5,4.8,1540,12181,182,15.375087,74.144446
+H0452,Goa Hotel 42,Goa,Panaji,Resort,4,3.8,2586,17877,39,15.235434,74.147259
+H0453,Goa Hotel 43,Goa,Calangute,Budget,4,4.1,84,19215,161,15.254935,74.146026
+H0454,Goa Hotel 44,Goa,Calangute,Luxury,5,3.2,509,7393,120,15.291448,74.163679
+H0455,Goa Hotel 45,Goa,Baga,Business,5,4.4,290,21527,89,15.226489,74.065157
+H0456,Goa Hotel 46,Goa,Calangute,Budget,4,4.6,3437,20894,55,15.377409,74.064906
+H0457,Goa Hotel 47,Goa,Panaji,Business,3,3.3,126,11851,85,15.346747,74.046074
+H0458,Goa Hotel 48,Goa,Baga,Budget,3,4.2,523,17258,147,15.350825,74.153869
+H0459,Goa Hotel 49,Goa,Panaji,Boutique,3,3.4,2738,21493,161,15.264526,74.190019
+H0460,Goa Hotel 50,Goa,Panaji,Business,5,3.5,1456,16907,132,15.274776,74.130986
+H0461,Goa Hotel 51,Goa,Calangute,Budget,4,4.1,4203,17026,29,15.357526,74.156457
+H0462,Goa Hotel 52,Goa,Baga,Budget,4,3.7,253,19069,210,15.295529,74.193796
+H0463,Goa Hotel 53,Goa,Panaji,Budget,5,3.9,1173,13393,37,15.346056,74.136937
+H0464,Goa Hotel 54,Goa,Panaji,Budget,3,3.9,541,21076,244,15.260241,74.069942
+H0465,Goa Hotel 55,Goa,Baga,Boutique,4,4.8,361,10940,79,15.277568,74.150834
+H0466,Goa Hotel 56,Goa,Baga,Boutique,5,4.8,4077,23113,164,15.332218,74.201486
+H0467,Goa Hotel 57,Goa,Baga,Luxury,4,3.8,4437,11609,140,15.371936,74.18198
+H0468,Goa Hotel 58,Goa,Panaji,Boutique,5,4.1,1180,6756,19,15.285554,74.180877
+H0469,Goa Hotel 59,Goa,Calangute,Resort,5,3.3,2836,18550,66,15.238248,74.177069
+H0470,Goa Hotel 60,Goa,Panaji,Budget,3,3.9,4291,16563,73,15.302777,74.091068
+H0471,Goa Hotel 61,Goa,Baga,Business,3,4.9,320,23490,244,15.290997,74.107572
+H0472,Goa Hotel 62,Goa,Panaji,Luxury,5,3.9,2141,17230,56,15.368696,74.064167
+H0473,Goa Hotel 63,Goa,Baga,Boutique,4,3.3,3321,18301,12,15.224402,74.097518
+H0474,Goa Hotel 64,Goa,Calangute,Resort,4,3.3,386,11023,50,15.359483,74.185584
+H0475,Goa Hotel 65,Goa,Baga,Budget,5,4.2,4071,5774,168,15.333618,74.098907
+H0476,Goa Hotel 66,Goa,Panaji,Business,4,3.5,1606,10293,155,15.366547,74.148178
+H0477,Goa Hotel 67,Goa,Panaji,Budget,5,4.6,3433,19791,14,15.292412,74.134127
+H0478,Goa Hotel 68,Goa,Baga,Luxury,3,4.5,3184,15876,250,15.273316,74.105797
+H0479,Goa Hotel 69,Goa,Baga,Business,3,3.3,238,23440,197,15.371527,74.171609
+H0480,Goa Hotel 70,Goa,Calangute,Resort,3,3.3,1460,8960,116,15.32358,74.069839
+H0481,Goa Hotel 71,Goa,Calangute,Luxury,5,4.5,1787,14222,118,15.340204,74.151649
+H0482,Goa Hotel 72,Goa,Calangute,Business,5,4.8,3150,11553,120,15.265072,74.132959
+H0483,Goa Hotel 73,Goa,Calangute,Resort,3,3.9,3913,14416,32,15.248977,74.152539
+H0484,Goa Hotel 74,Goa,Panaji,Budget,5,3.9,4530,15510,27,15.243908,74.20146
+H0485,Goa Hotel 75,Goa,Baga,Resort,3,3.3,3564,22933,224,15.360866,74.050015
+H0486,Goa Hotel 76,Goa,Calangute,Business,5,4.1,3223,16584,216,15.279806,74.193515
+H0487,Goa Hotel 77,Goa,Calangute,Resort,5,4.8,2324,6680,238,15.264792,74.193367
+H0488,Goa Hotel 78,Goa,Baga,Resort,3,3.6,2450,7843,144,15.252263,74.048462
+H0489,Goa Hotel 79,Goa,Calangute,Boutique,3,3.4,1495,6783,231,15.347935,74.154814
+H0490,Goa Hotel 80,Goa,Baga,Luxury,3,3.5,1365,23369,165,15.320013,74.188134
+H0491,Goa Hotel 81,Goa,Panaji,Budget,5,3.2,4723,13459,37,15.34412,74.049906
+H0492,Goa Hotel 82,Goa,Baga,Budget,4,4.0,208,10558,204,15.324885,74.093378
+H0493,Goa Hotel 83,Goa,Baga,Business,5,4.8,1017,18335,111,15.315729,74.187771
+H0494,Goa Hotel 84,Goa,Panaji,Resort,3,3.4,996,15629,175,15.353426,74.066055
+H0495,Goa Hotel 85,Goa,Baga,Boutique,4,4.6,3408,21569,245,15.350666,74.166857
+H0496,Goa Hotel 86,Goa,Baga,Boutique,4,4.5,2286,8299,102,15.246987,74.062957
+H0497,Goa Hotel 87,Goa,Baga,Luxury,5,3.4,3939,8953,158,15.341366,74.155215
+H0498,Goa Hotel 88,Goa,Baga,Luxury,3,3.6,3814,17265,140,15.325172,74.050191
+H0499,Goa Hotel 89,Goa,Baga,Boutique,5,4.6,4440,22810,106,15.378143,74.134628
+H0500,Goa Hotel 90,Goa,Panaji,Luxury,5,4.8,3831,6590,66,15.223135,74.159465
+H0501,Goa Hotel 91,Goa,Baga,Business,3,4.7,2341,22492,66,15.281764,74.100071
+H0502,Goa Hotel 92,Goa,Baga,Resort,3,3.9,2134,20510,191,15.341546,74.054863
+H0503,Goa Hotel 93,Goa,Baga,Budget,5,3.6,4666,11657,138,15.367317,74.181066
+H0504,Goa Hotel 94,Goa,Calangute,Boutique,3,3.6,4066,8978,206,15.302568,74.20252
+H0505,Goa Hotel 95,Goa,Panaji,Luxury,5,4.2,673,8232,109,15.264311,74.118506
+H0506,Goa Hotel 96,Goa,Panaji,Resort,3,4.7,2062,17456,195,15.302825,74.117061
+H0507,Goa Hotel 97,Goa,Calangute,Boutique,3,3.8,575,14291,228,15.257243,74.088928
+H0508,Goa Hotel 98,Goa,Baga,Business,5,4.4,3854,15121,209,15.290221,74.047812
+H0509,Goa Hotel 99,Goa,Calangute,Luxury,4,3.9,4309,14783,63,15.332364,74.078055
+H0510,Goa Hotel 100,Goa,Calangute,Luxury,3,3.5,4580,8058,110,15.353463,74.081429
+H0511,Goa Hotel 101,Goa,Panaji,Luxury,4,4.3,2149,17864,66,15.271733,74.131787
+H0512,Goa Hotel 102,Goa,Panaji,Resort,3,3.8,1357,15229,115,15.244282,74.069544
+H0513,Goa Hotel 103,Goa,Panaji,Resort,4,4.2,1345,9362,60,15.244453,74.165793
+H0514,Goa Hotel 104,Goa,Panaji,Business,3,4.5,1948,17712,240,15.263412,74.086016
+H0515,Goa Hotel 105,Goa,Panaji,Luxury,5,4.1,871,21159,30,15.267122,74.176701
+H0516,Goa Hotel 106,Goa,Baga,Resort,4,4.8,3261,8023,148,15.341435,74.157579
+H0517,Goa Hotel 107,Goa,Baga,Resort,3,4.5,2942,18547,84,15.318558,74.17953
+H0518,Goa Hotel 108,Goa,Baga,Business,5,4.0,625,8413,116,15.354857,74.124074
+H0519,Goa Hotel 109,Goa,Baga,Budget,5,3.9,796,21618,60,15.29761,74.067755
+H0520,Goa Hotel 110,Goa,Calangute,Boutique,4,3.3,1614,7825,187,15.336981,74.131468
+H0521,Goa Hotel 111,Goa,Calangute,Luxury,3,3.8,4788,20085,236,15.333384,74.108412
+H0522,Goa Hotel 112,Goa,Panaji,Business,3,4.4,4959,11214,238,15.273741,74.10303
+H0523,Goa Hotel 113,Goa,Baga,Luxury,5,4.6,2556,20256,232,15.351418,74.172896
+H0524,Goa Hotel 114,Goa,Panaji,Resort,5,4.1,4073,17198,63,15.375469,74.122486
+H0525,Goa Hotel 115,Goa,Calangute,Boutique,3,3.8,1732,15974,42,15.286744,74.144382
+H0526,Goa Hotel 116,Goa,Calangute,Budget,3,4.3,3342,6086,79,15.228757,74.116098
+H0527,Goa Hotel 117,Goa,Calangute,Business,5,4.3,451,23117,56,15.279983,74.103703
+H0528,Goa Hotel 118,Goa,Panaji,Luxury,5,4.8,3044,15303,17,15.36741,74.183519
+H0529,Goa Hotel 119,Goa,Baga,Resort,4,3.4,586,18621,53,15.275717,74.109546
+H0530,Goa Hotel 120,Goa,Panaji,Budget,5,3.6,1113,18953,201,15.303588,74.06714
+H0531,Goa Hotel 121,Goa,Calangute,Budget,5,4.1,675,13922,152,15.376808,74.156753
+H0532,Goa Hotel 122,Goa,Panaji,Boutique,3,4.7,1282,17675,184,15.260251,74.170706
+H0533,Goa Hotel 123,Goa,Baga,Resort,3,4.0,1041,17923,48,15.317124,74.197304
+H0534,Goa Hotel 124,Goa,Panaji,Business,3,4.6,4097,12369,141,15.299459,74.145458
+H0535,Goa Hotel 125,Goa,Baga,Boutique,3,4.1,1695,19548,150,15.249321,74.194813
+H0536,Goa Hotel 126,Goa,Baga,Business,5,3.9,2947,10433,11,15.296117,74.101974
+H0537,Goa Hotel 127,Goa,Panaji,Business,4,3.5,1706,10242,191,15.334152,74.133719
+H0538,Goa Hotel 128,Goa,Panaji,Resort,4,4.1,790,19780,239,15.263781,74.192269
+H0539,Goa Hotel 129,Goa,Calangute,Boutique,5,3.4,972,18047,169,15.310459,74.119827
+H0540,Goa Hotel 130,Goa,Calangute,Budget,4,3.5,2566,7486,20,15.322653,74.068052
+H0541,Goa Hotel 131,Goa,Calangute,Budget,5,4.7,4729,15286,27,15.30887,74.071237
+H0542,Goa Hotel 132,Goa,Panaji,Business,3,4.2,1403,23366,195,15.348089,74.052781
+H0543,Goa Hotel 133,Goa,Panaji,Resort,5,3.5,4953,12509,110,15.282288,74.105147
+H0544,Goa Hotel 134,Goa,Baga,Boutique,3,4.3,3584,16600,111,15.250844,74.150601
+H0545,Goa Hotel 135,Goa,Panaji,Business,3,4.7,2011,11468,83,15.263691,74.058928
+H0546,Goa Hotel 136,Goa,Calangute,Luxury,5,4.0,1946,14704,211,15.234854,74.153008
+H0547,Goa Hotel 137,Goa,Calangute,Luxury,5,4.5,475,5800,59,15.261219,74.19507
+H0548,Goa Hotel 138,Goa,Panaji,Luxury,3,3.2,4792,22619,123,15.361293,74.066907
+H0549,Goa Hotel 139,Goa,Panaji,Resort,3,3.6,2553,7935,185,15.239626,74.115162
+H0550,Goa Hotel 140,Goa,Calangute,Business,5,4.3,985,10828,195,15.339104,74.078705
+H0551,Goa Hotel 141,Goa,Panaji,Resort,5,3.5,3022,19504,147,15.378683,74.187376
+H0552,Goa Hotel 142,Goa,Panaji,Budget,3,3.8,3796,21026,196,15.339318,74.105511
+H0553,Goa Hotel 143,Goa,Baga,Budget,4,4.5,2315,12265,186,15.345091,74.11837
+H0554,Goa Hotel 144,Goa,Baga,Boutique,4,3.4,3299,20616,134,15.274915,74.050713
+H0555,Goa Hotel 145,Goa,Baga,Resort,5,4.0,4178,13212,75,15.366444,74.144164
+H0556,Goa Hotel 146,Goa,Panaji,Business,3,4.4,3206,14807,70,15.378842,74.169681
+H0557,Goa Hotel 147,Goa,Baga,Budget,5,3.4,4812,5549,98,15.238698,74.200803
+H0558,Goa Hotel 148,Goa,Panaji,Business,3,4.7,667,12021,248,15.298508,74.11535
+H0559,Goa Hotel 149,Goa,Panaji,Luxury,5,4.0,2920,20775,27,15.277845,74.110813
+H0560,Goa Hotel 150,Goa,Baga,Luxury,5,4.2,1196,20767,232,15.285121,74.188394
+H0561,Goa Hotel 151,Goa,Panaji,Business,5,3.9,1708,18501,75,15.271355,74.093855
+H0562,Goa Hotel 152,Goa,Baga,Business,4,3.8,441,19891,184,15.337791,74.062429
+H0563,Goa Hotel 153,Goa,Panaji,Luxury,3,3.2,3649,11576,98,15.361142,74.160874
+H0564,Goa Hotel 154,Goa,Calangute,Luxury,5,3.4,1782,12036,126,15.3428,74.196489
+H0565,Goa Hotel 155,Goa,Calangute,Business,3,3.5,464,20291,175,15.249553,74.05428
+H0566,Goa Hotel 156,Goa,Panaji,Luxury,5,4.5,2529,14165,177,15.253289,74.155494
+H0567,Goa Hotel 157,Goa,Baga,Resort,5,4.2,2586,15783,217,15.356233,74.107107
+H0568,Goa Hotel 158,Goa,Baga,Resort,3,4.0,107,22163,89,15.362162,74.195691
+H0569,Goa Hotel 159,Goa,Calangute,Boutique,3,3.5,2523,8355,226,15.364549,74.053468
+H0570,Goa Hotel 160,Goa,Baga,Business,3,3.6,292,14410,185,15.359879,74.128924
+H0571,Goa Hotel 161,Goa,Baga,Budget,3,4.4,2609,10935,220,15.26355,74.103366
+H0572,Goa Hotel 162,Goa,Panaji,Luxury,3,3.8,4399,8331,212,15.220249,74.134673
+H0573,Goa Hotel 163,Goa,Baga,Resort,3,4.3,1307,12539,171,15.378535,74.133871
+H0574,Goa Hotel 164,Goa,Calangute,Business,4,3.8,4152,8809,161,15.378912,74.08357
+H0575,Goa Hotel 165,Goa,Calangute,Resort,3,4.8,1773,12733,42,15.257544,74.116586
+H0576,Goa Hotel 166,Goa,Panaji,Resort,5,4.9,1190,17994,190,15.372049,74.198123
+H0577,Goa Hotel 167,Goa,Calangute,Budget,3,4.8,1882,11804,74,15.336221,74.154948
+H0578,Goa Hotel 168,Goa,Panaji,Luxury,4,3.9,2273,21494,27,15.267747,74.1081
+H0579,Goa Hotel 169,Goa,Panaji,Boutique,5,4.6,1529,7535,182,15.322119,74.07628
+H0580,Goa Hotel 170,Goa,Baga,Boutique,4,4.6,4505,20925,190,15.371981,74.120571
+H0581,Jaipur Hotel 1,Jaipur,Amer,Resort,4,4.0,2129,11138,172,26.864055,75.843147
+H0582,Jaipur Hotel 2,Jaipur,Malviya Nagar,Budget,3,3.9,2763,10698,223,26.879367,75.796602
+H0583,Jaipur Hotel 3,Jaipur,Malviya Nagar,Budget,3,4.0,157,3958,160,26.927138,75.765044
+H0584,Jaipur Hotel 4,Jaipur,Malviya Nagar,Boutique,5,4.8,177,8919,45,26.872634,75.780469
+H0585,Jaipur Hotel 5,Jaipur,MI Road,Luxury,4,3.9,2268,19821,114,26.975452,75.740668
+H0586,Jaipur Hotel 6,Jaipur,Malviya Nagar,Business,4,3.8,1727,5054,105,26.911226,75.710395
+H0587,Jaipur Hotel 7,Jaipur,Amer,Boutique,4,4.3,4764,13400,225,26.924749,75.847949
+H0588,Jaipur Hotel 8,Jaipur,Amer,Resort,3,3.4,700,4966,161,26.944813,75.739242
+H0589,Jaipur Hotel 9,Jaipur,Amer,Business,5,3.5,599,4330,190,26.981245,75.782236
+H0590,Jaipur Hotel 10,Jaipur,MI Road,Resort,4,3.6,3481,13868,223,26.895968,75.809744
+H0591,Jaipur Hotel 11,Jaipur,MI Road,Budget,5,4.7,1418,20114,134,26.944768,75.750312
+H0592,Jaipur Hotel 12,Jaipur,Malviya Nagar,Budget,4,3.9,276,7319,61,26.904274,75.839582
+H0593,Jaipur Hotel 13,Jaipur,Malviya Nagar,Boutique,5,4.2,4860,10011,119,26.942388,75.829861
+H0594,Jaipur Hotel 14,Jaipur,Malviya Nagar,Business,5,4.0,1937,4928,116,26.933904,75.836182
+H0595,Jaipur Hotel 15,Jaipur,Amer,Boutique,3,4.2,1339,3629,159,26.980599,75.831996
+H0596,Jaipur Hotel 16,Jaipur,Amer,Resort,3,3.5,4491,20891,142,26.870634,75.796379
+H0597,Jaipur Hotel 17,Jaipur,Amer,Luxury,4,3.3,2469,16350,183,26.972772,75.782025
+H0598,Jaipur Hotel 18,Jaipur,MI Road,Luxury,5,4.8,404,3918,62,26.859292,75.72626
+H0599,Jaipur Hotel 19,Jaipur,Amer,Resort,5,3.7,267,19468,20,26.959573,75.760944
+H0600,Jaipur Hotel 20,Jaipur,Amer,Business,5,3.6,1544,12354,223,26.858768,75.753078
+H0601,Jaipur Hotel 21,Jaipur,Amer,Resort,4,3.5,1275,20412,139,26.834661,75.735726
+H0602,Jaipur Hotel 22,Jaipur,MI Road,Business,4,4.0,3119,13606,78,26.913676,75.758532
+H0603,Jaipur Hotel 23,Jaipur,MI Road,Luxury,3,4.0,2834,4939,35,26.978194,75.78251
+H0604,Jaipur Hotel 24,Jaipur,MI Road,Resort,3,3.5,3339,6030,87,26.983736,75.81877
+H0605,Jaipur Hotel 25,Jaipur,MI Road,Boutique,4,3.8,148,18331,168,26.987056,75.857227
+H0606,Jaipur Hotel 26,Jaipur,Malviya Nagar,Boutique,4,4.6,3241,16035,94,26.90477,75.779788
+H0607,Jaipur Hotel 27,Jaipur,Malviya Nagar,Resort,3,3.4,2464,17695,89,26.949678,75.784719
+H0608,Jaipur Hotel 28,Jaipur,Amer,Luxury,4,3.6,4301,14889,58,26.96915,75.833744
+H0609,Jaipur Hotel 29,Jaipur,MI Road,Budget,3,3.3,839,12642,231,26.961099,75.817483
+H0610,Jaipur Hotel 30,Jaipur,Amer,Luxury,4,3.7,4711,18705,36,26.929556,75.790506
+H0611,Jaipur Hotel 31,Jaipur,MI Road,Business,5,4.5,1547,15386,117,26.883448,75.859936
+H0612,Jaipur Hotel 32,Jaipur,MI Road,Business,5,3.5,1210,20329,118,26.849106,75.777538
+H0613,Jaipur Hotel 33,Jaipur,Malviya Nagar,Resort,5,4.3,1398,12862,164,26.965449,75.78593
+H0614,Jaipur Hotel 34,Jaipur,Amer,Budget,4,4.6,1457,8494,122,26.934479,75.80428
+H0615,Jaipur Hotel 35,Jaipur,MI Road,Business,4,3.2,2972,15997,206,26.973542,75.766223
+H0616,Jaipur Hotel 36,Jaipur,MI Road,Resort,5,3.5,1636,6116,90,26.878331,75.826102
+H0617,Jaipur Hotel 37,Jaipur,Amer,Business,5,4.5,2374,10827,213,26.941561,75.861597
+H0618,Jaipur Hotel 38,Jaipur,MI Road,Business,5,4.0,4552,7603,119,26.9085,75.803838
+H0619,Jaipur Hotel 39,Jaipur,Malviya Nagar,Resort,5,4.0,697,4426,47,26.910541,75.755115
+H0620,Jaipur Hotel 40,Jaipur,Malviya Nagar,Luxury,3,4.3,3096,17657,127,26.991046,75.803963
+H0621,Jaipur Hotel 41,Jaipur,MI Road,Resort,5,3.2,3111,14831,25,26.860688,75.817769
+H0622,Jaipur Hotel 42,Jaipur,Amer,Luxury,5,3.8,1174,17713,64,26.881591,75.844369
+H0623,Jaipur Hotel 43,Jaipur,MI Road,Luxury,3,4.0,1778,9880,203,26.844233,75.836404
+H0624,Jaipur Hotel 44,Jaipur,Malviya Nagar,Business,4,4.3,4320,7964,38,26.848615,75.77469
+H0625,Jaipur Hotel 45,Jaipur,Amer,Resort,5,4.2,4150,19288,31,26.907312,75.770078
+H0626,Jaipur Hotel 46,Jaipur,MI Road,Luxury,3,4.2,2371,14024,209,26.854681,75.779079
+H0627,Jaipur Hotel 47,Jaipur,Amer,Resort,3,4.4,1341,19432,155,26.922938,75.78055
+H0628,Jaipur Hotel 48,Jaipur,Amer,Business,5,3.5,3032,14754,143,26.940189,75.756819
+H0629,Jaipur Hotel 49,Jaipur,Malviya Nagar,Budget,4,4.8,2862,5188,225,26.941832,75.861796
+H0630,Jaipur Hotel 50,Jaipur,MI Road,Boutique,5,3.8,2726,9953,172,26.916645,75.774822
+H0631,Jaipur Hotel 51,Jaipur,Amer,Resort,4,3.6,575,15730,46,26.929242,75.845986
+H0632,Jaipur Hotel 52,Jaipur,Amer,Boutique,4,4.8,4964,13058,177,26.848812,75.80985
+H0633,Jaipur Hotel 53,Jaipur,Amer,Business,4,4.7,1657,18124,189,26.885827,75.78882
+H0634,Jaipur Hotel 54,Jaipur,Amer,Business,4,4.2,1065,19939,117,26.887212,75.847843
+H0635,Jaipur Hotel 55,Jaipur,Malviya Nagar,Business,3,3.3,528,5360,141,26.882566,75.787061
+H0636,Jaipur Hotel 56,Jaipur,Amer,Resort,3,4.5,4458,21492,144,26.945686,75.855235
+H0637,Jaipur Hotel 57,Jaipur,Malviya Nagar,Resort,3,3.9,749,6446,120,26.899134,75.77754
+H0638,Jaipur Hotel 58,Jaipur,Amer,Business,5,4.9,4314,20841,132,26.96032,75.846055
+H0639,Jaipur Hotel 59,Jaipur,MI Road,Luxury,4,4.8,3554,6439,69,26.87684,75.7338
+H0640,Jaipur Hotel 60,Jaipur,Amer,Budget,4,3.7,2165,6271,243,26.984689,75.720769
+H0641,Jaipur Hotel 61,Jaipur,Malviya Nagar,Luxury,3,3.8,1610,14197,122,26.865881,75.791396
+H0642,Jaipur Hotel 62,Jaipur,MI Road,Boutique,5,3.8,4403,8514,195,26.933443,75.734525
+H0643,Jaipur Hotel 63,Jaipur,Amer,Resort,3,4.3,1898,19801,22,26.944916,75.746831
+H0644,Jaipur Hotel 64,Jaipur,Amer,Business,5,4.7,3023,16683,217,26.986015,75.804051
+H0645,Jaipur Hotel 65,Jaipur,Amer,Boutique,5,3.4,1174,19529,35,26.853872,75.723906
+H0646,Jaipur Hotel 66,Jaipur,MI Road,Resort,5,4.2,370,6768,43,26.877423,75.725595
+H0647,Jaipur Hotel 67,Jaipur,Amer,Luxury,5,4.6,1815,4612,117,26.866427,75.859082
+H0648,Jaipur Hotel 68,Jaipur,Malviya Nagar,Boutique,3,3.7,2357,4720,83,26.926848,75.7557
+H0649,Jaipur Hotel 69,Jaipur,Malviya Nagar,Resort,5,4.2,947,9425,246,26.983491,75.860778
+H0650,Jaipur Hotel 70,Jaipur,MI Road,Budget,5,3.6,3517,19736,62,26.986204,75.858446
+H0651,Jaipur Hotel 71,Jaipur,Malviya Nagar,Luxury,4,4.8,3685,11318,28,26.878952,75.778279
+H0652,Jaipur Hotel 72,Jaipur,Malviya Nagar,Resort,5,3.5,4330,11211,88,26.84767,75.757769
+H0653,Jaipur Hotel 73,Jaipur,Amer,Resort,5,4.0,1673,4169,180,26.974988,75.779845
+H0654,Jaipur Hotel 74,Jaipur,Amer,Budget,3,3.5,1630,21269,23,26.898102,75.720983
+H0655,Jaipur Hotel 75,Jaipur,MI Road,Boutique,5,4.8,451,13648,156,26.927815,75.709308
+H0656,Jaipur Hotel 76,Jaipur,Malviya Nagar,Budget,3,4.7,311,19601,67,26.9083,75.789812
+H0657,Jaipur Hotel 77,Jaipur,Malviya Nagar,Resort,5,4.4,2012,13116,168,26.956801,75.740112
+H0658,Jaipur Hotel 78,Jaipur,Malviya Nagar,Budget,4,4.5,3526,19249,160,26.885149,75.864111
+H0659,Jaipur Hotel 79,Jaipur,Malviya Nagar,Budget,4,3.2,3330,19098,119,26.85905,75.862265
+H0660,Jaipur Hotel 80,Jaipur,Amer,Resort,4,3.4,1832,11039,52,26.886069,75.83518
+H0661,Jaipur Hotel 81,Jaipur,Malviya Nagar,Luxury,5,4.1,3140,4187,235,26.912273,75.742351
+H0662,Jaipur Hotel 82,Jaipur,Amer,Luxury,5,4.7,3896,3753,39,26.912023,75.725176
+H0663,Jaipur Hotel 83,Jaipur,Amer,Boutique,4,4.3,4961,14176,23,26.886467,75.85808
+H0664,Jaipur Hotel 84,Jaipur,MI Road,Business,4,3.6,4937,12800,58,26.984967,75.776469
+H0665,Jaipur Hotel 85,Jaipur,MI Road,Luxury,3,4.6,1967,14341,198,26.907623,75.730031
+H0666,Jaipur Hotel 86,Jaipur,Amer,Resort,4,4.3,983,11801,159,26.956023,75.836359
+H0667,Jaipur Hotel 87,Jaipur,MI Road,Resort,4,4.3,2043,19874,37,26.988027,75.731576
+H0668,Jaipur Hotel 88,Jaipur,MI Road,Luxury,3,3.4,4498,17530,164,26.909554,75.77556
+H0669,Jaipur Hotel 89,Jaipur,Malviya Nagar,Luxury,5,3.2,1064,9650,228,26.991398,75.718365
+H0670,Jaipur Hotel 90,Jaipur,Malviya Nagar,Boutique,4,3.7,2950,13801,175,26.954622,75.821612
+H0671,Jaipur Hotel 91,Jaipur,Amer,Boutique,5,3.3,2675,16834,52,26.904396,75.755136
+H0672,Jaipur Hotel 92,Jaipur,MI Road,Resort,4,4.0,3946,18238,55,26.928847,75.721156
+H0673,Jaipur Hotel 93,Jaipur,MI Road,Luxury,4,3.9,1166,16965,26,26.973361,75.83691
+H0674,Jaipur Hotel 94,Jaipur,MI Road,Luxury,5,3.6,1150,20088,70,26.967935,75.794406
+H0675,Jaipur Hotel 95,Jaipur,Malviya Nagar,Luxury,3,3.3,4391,18010,111,26.903614,75.82655
+H0676,Jaipur Hotel 96,Jaipur,Malviya Nagar,Boutique,4,3.4,1711,13458,112,26.839511,75.731064
+H0677,Jaipur Hotel 97,Jaipur,Amer,Luxury,3,4.4,4170,13912,229,26.908466,75.785341
+H0678,Jaipur Hotel 98,Jaipur,MI Road,Business,5,4.1,2770,11320,83,26.891805,75.719619
+H0679,Jaipur Hotel 99,Jaipur,Malviya Nagar,Resort,5,3.3,3194,19863,98,26.842111,75.804254
+H0680,Jaipur Hotel 100,Jaipur,Malviya Nagar,Luxury,4,4.6,3570,8666,249,26.918928,75.856879
+H0681,Jaipur Hotel 101,Jaipur,MI Road,Budget,5,4.6,191,20916,175,26.917808,75.855111
+H0682,Jaipur Hotel 102,Jaipur,MI Road,Luxury,4,3.6,393,9122,105,26.870961,75.736103
+H0683,Jaipur Hotel 103,Jaipur,MI Road,Budget,4,3.9,4116,13733,45,26.870618,75.74995
+H0684,Jaipur Hotel 104,Jaipur,MI Road,Resort,3,3.3,1018,9576,210,26.91904,75.756993
+H0685,Jaipur Hotel 105,Jaipur,Amer,Resort,4,3.2,1201,11669,28,26.974926,75.8325
+H0686,Jaipur Hotel 106,Jaipur,Malviya Nagar,Business,3,4.2,1994,4769,122,26.842741,75.856438
+H0687,Jaipur Hotel 107,Jaipur,Malviya Nagar,Budget,4,3.8,3386,20117,48,26.907098,75.766581
+H0688,Jaipur Hotel 108,Jaipur,MI Road,Resort,3,3.3,4058,14227,235,26.898975,75.799283
+H0689,Jaipur Hotel 109,Jaipur,Malviya Nagar,Luxury,5,4.8,2900,20787,15,26.883771,75.70962
+H0690,Jaipur Hotel 110,Jaipur,Amer,Resort,5,3.5,1971,18339,243,26.96176,75.759583
+H0691,Jaipur Hotel 111,Jaipur,MI Road,Resort,4,4.1,3600,3610,164,26.991629,75.730775
+H0692,Jaipur Hotel 112,Jaipur,Amer,Resort,3,3.4,4489,12468,203,26.974887,75.864554
+H0693,Jaipur Hotel 113,Jaipur,Malviya Nagar,Boutique,3,4.1,4078,17686,155,26.871473,75.725225
+H0694,Jaipur Hotel 114,Jaipur,Malviya Nagar,Boutique,3,4.2,3547,13517,212,26.94894,75.857395
+H0695,Jaipur Hotel 115,Jaipur,MI Road,Resort,3,4.4,508,21265,150,26.839433,75.813036
+H0696,Jaipur Hotel 116,Jaipur,MI Road,Resort,4,4.6,2228,3849,86,26.945461,75.781558
+H0697,Jaipur Hotel 117,Jaipur,Amer,Business,4,3.3,1166,9033,49,26.974816,75.750012
+H0698,Jaipur Hotel 118,Jaipur,Malviya Nagar,Boutique,4,4.0,55,6629,106,26.859333,75.721179
+H0699,Jaipur Hotel 119,Jaipur,MI Road,Boutique,5,3.9,3332,4852,151,26.882742,75.738453
+H0700,Jaipur Hotel 120,Jaipur,MI Road,Business,4,3.6,3642,8788,27,26.837392,75.71141
+H0701,Jaipur Hotel 121,Jaipur,MI Road,Resort,3,4.7,1658,19348,202,26.935855,75.867226
+H0702,Jaipur Hotel 122,Jaipur,MI Road,Resort,3,4.4,2670,16309,17,26.905609,75.783989
+H0703,Jaipur Hotel 123,Jaipur,Malviya Nagar,Resort,4,3.4,4364,14510,197,26.865415,75.857991
+H0704,Jaipur Hotel 124,Jaipur,MI Road,Luxury,4,3.9,4518,20868,89,26.918894,75.80595
+H0705,Jaipur Hotel 125,Jaipur,Amer,Boutique,4,4.0,3386,4874,244,26.900007,75.838326
+H0706,Jaipur Hotel 126,Jaipur,Amer,Luxury,3,4.3,4334,8127,218,26.96744,75.734092
+H0707,Jaipur Hotel 127,Jaipur,MI Road,Resort,3,3.3,1781,4264,46,26.856342,75.813542
+H0708,Jaipur Hotel 128,Jaipur,MI Road,Budget,3,3.3,1874,10122,161,26.90623,75.764653
+H0709,Jaipur Hotel 129,Jaipur,MI Road,Boutique,3,3.9,3018,13426,231,26.851581,75.751019
+H0710,Jaipur Hotel 130,Jaipur,MI Road,Luxury,5,3.5,500,11235,55,26.888871,75.713016
+H0711,Jaipur Hotel 131,Jaipur,Malviya Nagar,Business,5,3.3,1205,15332,224,26.935143,75.758049
+H0712,Jaipur Hotel 132,Jaipur,Malviya Nagar,Boutique,5,4.8,952,4739,177,26.853281,75.71754
+H0713,Jaipur Hotel 133,Jaipur,Malviya Nagar,Budget,5,3.8,2750,4406,116,26.885937,75.786536
+H0714,Jaipur Hotel 134,Jaipur,Malviya Nagar,Budget,4,3.9,1557,18942,117,26.971611,75.790363
+H0715,Jaipur Hotel 135,Jaipur,MI Road,Boutique,4,3.5,4129,15945,216,26.843931,75.859032
+H0716,Jaipur Hotel 136,Jaipur,Amer,Budget,3,3.8,2337,6777,194,26.87622,75.737336
+H0717,Jaipur Hotel 137,Jaipur,Malviya Nagar,Budget,5,3.6,4045,15390,104,26.976317,75.851216
+H0718,Jaipur Hotel 138,Jaipur,Amer,Business,3,3.4,3506,9513,175,26.97829,75.735298
+H0719,Jaipur Hotel 139,Jaipur,MI Road,Business,3,3.5,4311,10743,17,26.869388,75.812927
+H0720,Jaipur Hotel 140,Jaipur,MI Road,Luxury,3,4.1,3395,19850,224,26.955907,75.75898
+H0721,Shimla Hotel 1,Shimla,Lakkar Bazar,Resort,5,4.2,2621,7255,195,31.085923,77.095247
+H0722,Shimla Hotel 2,Shimla,Mall Road,Luxury,3,4.0,2569,10309,152,31.130363,77.219946
+H0723,Shimla Hotel 3,Shimla,Lakkar Bazar,Resort,3,4.4,1044,18197,182,31.044155,77.129808
+H0724,Shimla Hotel 4,Shimla,Lakkar Bazar,Business,4,4.1,1391,17079,77,31.143246,77.176538
+H0725,Shimla Hotel 5,Shimla,Sanjauli,Business,4,3.8,341,8129,115,31.050881,77.199542
+H0726,Shimla Hotel 6,Shimla,Lakkar Bazar,Budget,3,3.2,1886,20037,42,31.05753,77.184807
+H0727,Shimla Hotel 7,Shimla,Mall Road,Resort,3,3.7,4042,6529,46,31.138706,77.152055
+H0728,Shimla Hotel 8,Shimla,Lakkar Bazar,Business,3,3.2,4937,15179,16,31.173805,77.24079
+H0729,Shimla Hotel 9,Shimla,Lakkar Bazar,Business,3,4.7,1593,12492,48,31.168714,77.227109
+H0730,Shimla Hotel 10,Shimla,Mall Road,Boutique,5,4.8,615,18148,47,31.047675,77.127403
+H0731,Shimla Hotel 11,Shimla,Sanjauli,Resort,4,4.8,3633,5987,213,31.128599,77.134208
+H0732,Shimla Hotel 12,Shimla,Sanjauli,Budget,4,3.5,1733,17915,194,31.082654,77.159291
+H0733,Shimla Hotel 13,Shimla,Mall Road,Boutique,3,4.2,2625,8438,160,31.060559,77.250793
+H0734,Shimla Hotel 14,Shimla,Lakkar Bazar,Boutique,3,4.4,3800,11818,150,31.164185,77.122295
+H0735,Shimla Hotel 15,Shimla,Lakkar Bazar,Resort,4,4.2,2081,9560,189,31.159188,77.146256
+H0736,Shimla Hotel 16,Shimla,Lakkar Bazar,Business,5,3.7,3631,20552,200,31.140835,77.107914
+H0737,Shimla Hotel 17,Shimla,Lakkar Bazar,Business,3,3.3,3450,19940,174,31.036605,77.172367
+H0738,Shimla Hotel 18,Shimla,Sanjauli,Budget,4,3.7,2278,20580,70,31.081082,77.140359
+H0739,Shimla Hotel 19,Shimla,Sanjauli,Resort,3,4.7,4553,20487,231,31.04696,77.099786
+H0740,Shimla Hotel 20,Shimla,Lakkar Bazar,Resort,3,3.9,2746,19378,166,31.164738,77.194692
+H0741,Shimla Hotel 21,Shimla,Lakkar Bazar,Luxury,5,4.6,3097,19706,121,31.114163,77.173301
+H0742,Shimla Hotel 22,Shimla,Lakkar Bazar,Boutique,5,4.1,3105,17299,89,31.054594,77.118262
+H0743,Shimla Hotel 23,Shimla,Sanjauli,Boutique,3,4.1,2510,19466,142,31.128035,77.19953
+H0744,Shimla Hotel 24,Shimla,Mall Road,Business,4,4.0,602,18351,137,31.12723,77.139544
+H0745,Shimla Hotel 25,Shimla,Mall Road,Budget,4,4.5,3352,20578,120,31.16868,77.200573
+H0746,Shimla Hotel 26,Shimla,Mall Road,Luxury,4,4.5,3146,11140,22,31.164491,77.230082
+H0747,Shimla Hotel 27,Shimla,Mall Road,Boutique,4,3.6,1957,12333,52,31.094746,77.220922
+H0748,Shimla Hotel 28,Shimla,Mall Road,Business,3,4.0,4683,9321,189,31.15794,77.22731
+H0749,Shimla Hotel 29,Shimla,Sanjauli,Boutique,3,3.5,3827,14867,201,31.175551,77.156163
+H0750,Shimla Hotel 30,Shimla,Sanjauli,Budget,5,4.4,4718,16088,53,31.098254,77.094854
+H0751,Shimla Hotel 31,Shimla,Lakkar Bazar,Resort,3,4.4,160,5596,88,31.108878,77.099267
+H0752,Shimla Hotel 32,Shimla,Lakkar Bazar,Budget,4,4.2,827,6941,17,31.075701,77.094722
+H0753,Shimla Hotel 33,Shimla,Sanjauli,Budget,5,3.7,1578,3023,202,31.054771,77.18266
+H0754,Shimla Hotel 34,Shimla,Sanjauli,Luxury,3,3.3,338,19491,164,31.116772,77.16094
+H0755,Shimla Hotel 35,Shimla,Sanjauli,Luxury,3,4.4,3910,5271,148,31.074357,77.130681
+H0756,Shimla Hotel 36,Shimla,Mall Road,Boutique,3,4.7,3950,11476,208,31.083625,77.209548
+H0757,Shimla Hotel 37,Shimla,Sanjauli,Boutique,3,4.5,2541,5923,188,31.119485,77.099582
+H0758,Shimla Hotel 38,Shimla,Lakkar Bazar,Luxury,3,4.6,4697,5128,198,31.179678,77.235271
+H0759,Shimla Hotel 39,Shimla,Mall Road,Business,5,4.8,2574,19587,215,31.123649,77.183661
+H0760,Shimla Hotel 40,Shimla,Lakkar Bazar,Resort,5,4.8,4893,4579,157,31.130607,77.166821
+H0761,Shimla Hotel 41,Shimla,Lakkar Bazar,Boutique,5,4.6,4154,10820,90,31.08757,77.241804
+H0762,Shimla Hotel 42,Shimla,Mall Road,Boutique,4,4.5,2343,15107,152,31.130242,77.190537
+H0763,Shimla Hotel 43,Shimla,Lakkar Bazar,Boutique,5,3.5,891,9393,247,31.092523,77.221733
+H0764,Shimla Hotel 44,Shimla,Mall Road,Resort,4,3.5,1306,13347,158,31.097976,77.245638
+H0765,Shimla Hotel 45,Shimla,Mall Road,Boutique,5,4.9,1567,10528,176,31.108547,77.243244
+H0766,Shimla Hotel 46,Shimla,Mall Road,Business,4,4.1,3247,12563,77,31.04976,77.200088
+H0767,Shimla Hotel 47,Shimla,Mall Road,Luxury,3,4.2,200,12927,110,31.073468,77.146908
+H0768,Shimla Hotel 48,Shimla,Mall Road,Luxury,3,3.5,1230,17663,132,31.121706,77.141571
+H0769,Shimla Hotel 49,Shimla,Sanjauli,Luxury,4,4.3,1834,9969,222,31.043564,77.249236
+H0770,Shimla Hotel 50,Shimla,Mall Road,Business,3,4.1,1011,20925,229,31.033881,77.230022
+H0771,Shimla Hotel 51,Shimla,Mall Road,Boutique,5,3.5,2200,11965,38,31.183598,77.227252
+H0772,Shimla Hotel 52,Shimla,Sanjauli,Budget,4,3.6,4051,18729,215,31.088089,77.135101
+H0773,Shimla Hotel 53,Shimla,Mall Road,Business,4,3.5,595,13883,159,31.069495,77.21954
+H0774,Shimla Hotel 54,Shimla,Sanjauli,Business,3,4.2,3970,16394,139,31.118715,77.210996
+H0775,Shimla Hotel 55,Shimla,Mall Road,Luxury,5,3.7,3261,7366,88,31.108806,77.113516
+H0776,Shimla Hotel 56,Shimla,Lakkar Bazar,Business,5,4.4,1183,14026,100,31.133385,77.248805
+H0777,Shimla Hotel 57,Shimla,Lakkar Bazar,Boutique,3,4.4,1962,20007,164,31.158271,77.158917
+H0778,Shimla Hotel 58,Shimla,Lakkar Bazar,Budget,5,4.1,1114,8671,199,31.171262,77.230763
+H0779,Shimla Hotel 59,Shimla,Mall Road,Resort,3,3.6,3462,17501,213,31.132123,77.144543
+H0780,Shimla Hotel 60,Shimla,Lakkar Bazar,Boutique,4,4.8,638,10444,80,31.073552,77.235315
+H0781,Shimla Hotel 61,Shimla,Sanjauli,Luxury,3,3.9,1528,11101,136,31.025378,77.24934
+H0782,Shimla Hotel 62,Shimla,Sanjauli,Boutique,4,3.3,2271,10945,133,31.030512,77.177002
+H0783,Shimla Hotel 63,Shimla,Sanjauli,Business,3,4.4,1933,15074,189,31.163584,77.118123
+H0784,Shimla Hotel 64,Shimla,Mall Road,Boutique,4,3.6,290,8508,60,31.167932,77.251049
+H0785,Shimla Hotel 65,Shimla,Sanjauli,Budget,3,3.4,4166,16257,98,31.041945,77.172529
+H0786,Shimla Hotel 66,Shimla,Mall Road,Business,5,3.3,3936,8902,125,31.146453,77.143152
+H0787,Shimla Hotel 67,Shimla,Mall Road,Budget,5,4.6,4366,16331,170,31.168042,77.125263
+H0788,Shimla Hotel 68,Shimla,Sanjauli,Resort,3,3.5,4879,15754,187,31.168362,77.208913
+H0789,Shimla Hotel 69,Shimla,Mall Road,Resort,4,4.9,1060,10289,29,31.137113,77.133997
+H0790,Shimla Hotel 70,Shimla,Sanjauli,Budget,5,4.4,1171,15648,213,31.072414,77.164197
+H0791,Shimla Hotel 71,Shimla,Mall Road,Resort,3,4.2,4826,10079,156,31.173058,77.189565
+H0792,Shimla Hotel 72,Shimla,Sanjauli,Business,3,3.7,1258,3097,229,31.056817,77.22261
+H0793,Shimla Hotel 73,Shimla,Lakkar Bazar,Boutique,4,3.8,80,12614,189,31.042054,77.097198
+H0794,Shimla Hotel 74,Shimla,Sanjauli,Luxury,3,4.5,2536,3682,42,31.15072,77.179898
+H0795,Shimla Hotel 75,Shimla,Lakkar Bazar,Luxury,3,4.8,1539,9425,27,31.086919,77.125521
+H0796,Shimla Hotel 76,Shimla,Mall Road,Budget,3,4.5,2466,7435,50,31.028142,77.202363
+H0797,Shimla Hotel 77,Shimla,Mall Road,Business,4,3.8,1369,7931,69,31.130162,77.145572
+H0798,Shimla Hotel 78,Shimla,Sanjauli,Business,4,4.2,88,16467,144,31.169907,77.252239
+H0799,Shimla Hotel 79,Shimla,Sanjauli,Boutique,4,4.4,2765,7433,127,31.040812,77.192898
+H0800,Shimla Hotel 80,Shimla,Mall Road,Budget,3,3.4,3978,3014,72,31.135158,77.18755
+H0801,Shimla Hotel 81,Shimla,Mall Road,Luxury,3,3.2,2789,17493,192,31.043094,77.147785
+H0802,Shimla Hotel 82,Shimla,Lakkar Bazar,Business,3,4.6,1878,13361,237,31.168785,77.112841
+H0803,Shimla Hotel 83,Shimla,Lakkar Bazar,Business,4,4.1,1199,5619,184,31.121619,77.101578
+H0804,Shimla Hotel 84,Shimla,Lakkar Bazar,Business,3,4.5,3442,12868,178,31.147691,77.242421
+H0805,Shimla Hotel 85,Shimla,Mall Road,Business,5,3.7,1273,5981,51,31.135171,77.199694
+H0806,Shimla Hotel 86,Shimla,Mall Road,Luxury,4,4.8,4271,16862,213,31.084682,77.094796
+H0807,Shimla Hotel 87,Shimla,Sanjauli,Boutique,4,4.7,4399,15779,10,31.05079,77.189457
+H0808,Shimla Hotel 88,Shimla,Mall Road,Boutique,4,3.9,4923,7980,218,31.089088,77.194961
+H0809,Shimla Hotel 89,Shimla,Mall Road,Budget,5,4.3,290,10150,95,31.118343,77.23135
+H0810,Shimla Hotel 90,Shimla,Lakkar Bazar,Budget,5,3.4,4642,12789,86,31.065109,77.231465
+H0811,Shimla Hotel 91,Shimla,Sanjauli,Budget,5,3.7,143,5545,214,31.093362,77.188852
+H0812,Shimla Hotel 92,Shimla,Mall Road,Luxury,3,3.4,1684,18612,247,31.118893,77.221993
+H0813,Shimla Hotel 93,Shimla,Mall Road,Luxury,5,4.3,363,14323,32,31.071946,77.114883
+H0814,Shimla Hotel 94,Shimla,Lakkar Bazar,Boutique,3,4.3,4670,16428,208,31.08285,77.135463
+H0815,Shimla Hotel 95,Shimla,Mall Road,Budget,4,4.0,789,14525,221,31.111422,77.212274
+H0816,Shimla Hotel 96,Shimla,Mall Road,Budget,5,4.6,1340,14357,90,31.152365,77.153589
+H0817,Shimla Hotel 97,Shimla,Lakkar Bazar,Luxury,4,3.5,1175,19523,191,31.165098,77.190352
+H0818,Shimla Hotel 98,Shimla,Lakkar Bazar,Luxury,5,4.3,2138,3398,14,31.0525,77.170172
+H0819,Shimla Hotel 99,Shimla,Lakkar Bazar,Luxury,4,4.7,431,11319,172,31.123916,77.122783
+H0820,Shimla Hotel 100,Shimla,Sanjauli,Budget,4,3.8,2999,3745,201,31.114191,77.223744
+H0821,Udaipur Hotel 1,Udaipur,City Palace,Luxury,5,3.9,3033,14573,210,24.614165,73.678724
+H0822,Udaipur Hotel 2,Udaipur,City Palace,Luxury,4,4.7,3523,8996,75,24.526382,73.663685
+H0823,Udaipur Hotel 3,Udaipur,Hiran Magri,Budget,5,3.7,309,12587,238,24.656389,73.650407
+H0824,Udaipur Hotel 4,Udaipur,Fateh Sagar,Boutique,5,3.7,3552,6646,90,24.662993,73.759764
+H0825,Udaipur Hotel 5,Udaipur,Fateh Sagar,Business,4,3.7,1256,7469,27,24.594579,73.679321
+H0826,Udaipur Hotel 6,Udaipur,Hiran Magri,Budget,5,3.5,2598,8513,140,24.514728,73.728371
+H0827,Udaipur Hotel 7,Udaipur,Hiran Magri,Boutique,5,3.7,3809,14762,208,24.582959,73.640225
+H0828,Udaipur Hotel 8,Udaipur,Fateh Sagar,Resort,5,3.3,4478,14741,46,24.542422,73.679535
+H0829,Udaipur Hotel 9,Udaipur,Fateh Sagar,Budget,5,4.4,1426,13600,194,24.535654,73.763003
+H0830,Udaipur Hotel 10,Udaipur,City Palace,Business,3,4.1,1915,11767,211,24.621484,73.674371
+H0831,Udaipur Hotel 11,Udaipur,Fateh Sagar,Business,4,3.8,4426,22967,147,24.600574,73.725799
+H0832,Udaipur Hotel 12,Udaipur,City Palace,Business,4,4.9,2289,17798,156,24.643315,73.745232
+H0833,Udaipur Hotel 13,Udaipur,Hiran Magri,Business,5,3.7,2277,10688,28,24.582399,73.64586
+H0834,Udaipur Hotel 14,Udaipur,Hiran Magri,Luxury,5,3.3,4299,15573,250,24.567008,73.696734
+H0835,Udaipur Hotel 15,Udaipur,City Palace,Luxury,5,4.1,1665,18034,125,24.598346,73.666722
+H0836,Udaipur Hotel 16,Udaipur,City Palace,Luxury,4,4.3,59,19240,210,24.507463,73.756158
+H0837,Udaipur Hotel 17,Udaipur,Hiran Magri,Luxury,4,4.6,1896,20960,110,24.518536,73.70655
+H0838,Udaipur Hotel 18,Udaipur,Hiran Magri,Resort,4,4.6,2817,17793,185,24.56492,73.688639
+H0839,Udaipur Hotel 19,Udaipur,Fateh Sagar,Budget,4,4.6,3358,15576,89,24.59842,73.683828
+H0840,Udaipur Hotel 20,Udaipur,Fateh Sagar,Budget,4,4.7,3663,15533,178,24.638104,73.757702
+H0841,Udaipur Hotel 21,Udaipur,Hiran Magri,Luxury,4,3.7,2100,16822,229,24.525224,73.689078
+H0842,Udaipur Hotel 22,Udaipur,City Palace,Luxury,3,3.4,1813,14110,118,24.531422,73.779102
+H0843,Udaipur Hotel 23,Udaipur,City Palace,Budget,3,4.5,852,7275,165,24.53829,73.687506
+H0844,Udaipur Hotel 24,Udaipur,Hiran Magri,Budget,3,4.7,2484,10331,12,24.591086,73.706896
+H0845,Udaipur Hotel 25,Udaipur,City Palace,Budget,4,4.0,3249,8754,231,24.591154,73.730061
+H0846,Udaipur Hotel 26,Udaipur,Hiran Magri,Resort,3,4.6,4707,21098,219,24.644715,73.65599
+H0847,Udaipur Hotel 27,Udaipur,Fateh Sagar,Business,3,4.7,369,9323,80,24.610175,73.652689
+H0848,Udaipur Hotel 28,Udaipur,Hiran Magri,Budget,5,4.5,4485,13321,131,24.566588,73.668706
+H0849,Udaipur Hotel 29,Udaipur,Hiran Magri,Boutique,3,4.7,434,9119,49,24.603182,73.762641
+H0850,Udaipur Hotel 30,Udaipur,Fateh Sagar,Business,3,4.8,1840,13085,202,24.602954,73.736608
+H0851,Udaipur Hotel 31,Udaipur,City Palace,Business,4,3.9,1290,23283,61,24.628587,73.775243
+H0852,Udaipur Hotel 32,Udaipur,Fateh Sagar,Resort,5,3.2,822,17723,124,24.627528,73.751344
+H0853,Udaipur Hotel 33,Udaipur,Fateh Sagar,Business,3,4.3,96,6107,81,24.663971,73.742162
+H0854,Udaipur Hotel 34,Udaipur,City Palace,Luxury,4,3.9,4443,15718,101,24.550843,73.763642
+H0855,Udaipur Hotel 35,Udaipur,City Palace,Resort,3,3.3,2587,19767,83,24.540955,73.663786
+H0856,Udaipur Hotel 36,Udaipur,Fateh Sagar,Resort,5,4.2,4101,23580,142,24.545881,73.647541
+H0857,Udaipur Hotel 37,Udaipur,Hiran Magri,Business,5,3.2,193,7388,169,24.658998,73.695631
+H0858,Udaipur Hotel 38,Udaipur,City Palace,Boutique,5,4.8,3769,15936,111,24.566587,73.716666
+H0859,Udaipur Hotel 39,Udaipur,Hiran Magri,Luxury,4,3.4,1168,8100,102,24.647441,73.743112
+H0860,Udaipur Hotel 40,Udaipur,City Palace,Luxury,5,3.3,4644,6597,209,24.561248,73.767421
+H0861,Udaipur Hotel 41,Udaipur,Fateh Sagar,Boutique,5,3.6,3496,12094,219,24.636732,73.672225
+H0862,Udaipur Hotel 42,Udaipur,Hiran Magri,Resort,4,4.8,2455,10504,75,24.558353,73.777875
+H0863,Udaipur Hotel 43,Udaipur,City Palace,Luxury,5,3.6,516,19158,156,24.647646,73.663439
+H0864,Udaipur Hotel 44,Udaipur,Fateh Sagar,Business,5,3.7,2006,16603,131,24.629107,73.710103
+H0865,Udaipur Hotel 45,Udaipur,Fateh Sagar,Boutique,4,3.3,530,18608,19,24.513229,73.697865
+H0866,Udaipur Hotel 46,Udaipur,Hiran Magri,Business,4,4.6,279,13697,97,24.61593,73.740213
+H0867,Udaipur Hotel 47,Udaipur,City Palace,Resort,4,3.7,3617,8472,201,24.609699,73.639766
+H0868,Udaipur Hotel 48,Udaipur,Fateh Sagar,Boutique,4,4.1,1898,12707,126,24.58216,73.746027
+H0869,Udaipur Hotel 49,Udaipur,Fateh Sagar,Budget,3,4.6,2054,14337,170,24.619139,73.714425
+H0870,Udaipur Hotel 50,Udaipur,Hiran Magri,Resort,3,3.5,2767,9574,88,24.516039,73.695829
+H0871,Udaipur Hotel 51,Udaipur,Fateh Sagar,Budget,5,4.1,1467,19843,54,24.587517,73.715063
+H0872,Udaipur Hotel 52,Udaipur,Fateh Sagar,Business,5,3.6,3571,22334,135,24.657843,73.661537
+H0873,Udaipur Hotel 53,Udaipur,Hiran Magri,Budget,3,4.5,3536,19875,170,24.591353,73.75318
+H0874,Udaipur Hotel 54,Udaipur,City Palace,Business,4,3.2,3740,9935,232,24.614371,73.765334
+H0875,Udaipur Hotel 55,Udaipur,City Palace,Business,5,4.5,3271,16613,84,24.649084,73.74773
+H0876,Udaipur Hotel 56,Udaipur,Hiran Magri,Budget,4,4.4,4832,19320,78,24.612307,73.651753
+H0877,Udaipur Hotel 57,Udaipur,Hiran Magri,Resort,3,4.4,498,17867,95,24.575344,73.677546
+H0878,Udaipur Hotel 58,Udaipur,Fateh Sagar,Resort,4,4.3,4375,16460,43,24.515898,73.675813
+H0879,Udaipur Hotel 59,Udaipur,Hiran Magri,Budget,4,3.3,2645,9979,144,24.51082,73.666813
+H0880,Udaipur Hotel 60,Udaipur,City Palace,Luxury,4,4.5,1055,21437,36,24.514108,73.691362
+H0881,Udaipur Hotel 61,Udaipur,City Palace,Luxury,5,3.5,1361,20156,126,24.586612,73.787504
+H0882,Udaipur Hotel 62,Udaipur,City Palace,Boutique,3,3.4,4156,14543,84,24.665246,73.758105
+H0883,Udaipur Hotel 63,Udaipur,City Palace,Budget,5,4.4,2549,20861,221,24.58998,73.76082
+H0884,Udaipur Hotel 64,Udaipur,Hiran Magri,Budget,5,3.5,1440,16573,182,24.579429,73.653604
+H0885,Udaipur Hotel 65,Udaipur,Hiran Magri,Business,5,3.8,4902,21634,227,24.614802,73.745749
+H0886,Udaipur Hotel 66,Udaipur,Fateh Sagar,Budget,4,3.6,2513,16915,208,24.636848,73.679305
+H0887,Udaipur Hotel 67,Udaipur,Fateh Sagar,Boutique,3,4.5,4067,14111,61,24.523316,73.77087
+H0888,Udaipur Hotel 68,Udaipur,Hiran Magri,Resort,5,3.5,4852,19215,68,24.597461,73.683312
+H0889,Udaipur Hotel 69,Udaipur,Fateh Sagar,Business,3,4.1,3004,17268,146,24.635908,73.655388
+H0890,Udaipur Hotel 70,Udaipur,Fateh Sagar,Business,3,3.4,2196,12370,116,24.660387,73.637578
+H0891,Udaipur Hotel 71,Udaipur,Fateh Sagar,Business,3,3.8,4862,13158,176,24.524356,73.769088
+H0892,Udaipur Hotel 72,Udaipur,Hiran Magri,Budget,4,4.0,2240,15720,77,24.652064,73.680151
+H0893,Udaipur Hotel 73,Udaipur,City Palace,Business,5,4.2,2150,11147,102,24.54532,73.75337
+H0894,Udaipur Hotel 74,Udaipur,Fateh Sagar,Boutique,4,4.1,4110,14439,86,24.663121,73.637416
+H0895,Udaipur Hotel 75,Udaipur,City Palace,Budget,3,4.4,322,19081,165,24.5069,73.710653
+H0896,Udaipur Hotel 76,Udaipur,Fateh Sagar,Luxury,4,4.3,1553,18900,249,24.533449,73.731828
+H0897,Udaipur Hotel 77,Udaipur,Hiran Magri,Budget,4,4.3,4905,6139,94,24.533209,73.698702
+H0898,Udaipur Hotel 78,Udaipur,City Palace,Business,5,4.6,1338,23464,18,24.529692,73.643529
+H0899,Udaipur Hotel 79,Udaipur,Hiran Magri,Business,4,4.6,3942,8958,42,24.645184,73.654092
+H0900,Udaipur Hotel 80,Udaipur,City Palace,Resort,3,4.6,3639,13507,17,24.654001,73.706435
+H0901,Manali Hotel 1,Manali,Mall Road,Resort,3,4.0,1284,15201,66,32.253331,77.195493
+H0902,Manali Hotel 2,Manali,Old Manali,Luxury,5,3.3,2518,18600,64,32.190962,77.192417
+H0903,Manali Hotel 3,Manali,Vashisht,Resort,3,3.5,4949,7988,211,32.196034,77.223668
+H0904,Manali Hotel 4,Manali,Vashisht,Resort,4,4.3,4575,10666,241,32.183011,77.239154
+H0905,Manali Hotel 5,Manali,Old Manali,Luxury,5,4.5,912,3389,235,32.25957,77.208157
+H0906,Manali Hotel 6,Manali,Mall Road,Budget,5,3.9,1639,16888,76,32.230519,77.231442
+H0907,Manali Hotel 7,Manali,Old Manali,Boutique,5,4.2,3141,19018,43,32.227468,77.193811
+H0908,Manali Hotel 8,Manali,Vashisht,Luxury,3,4.1,50,8246,194,32.172115,77.132171
+H0909,Manali Hotel 9,Manali,Mall Road,Business,5,3.7,4697,20680,80,32.322687,77.244252
+H0910,Manali Hotel 10,Manali,Vashisht,Budget,3,3.5,1379,6303,208,32.276298,77.227082
+H0911,Manali Hotel 11,Manali,Mall Road,Business,5,4.5,1573,9138,209,32.168966,77.262324
+H0912,Manali Hotel 12,Manali,Vashisht,Budget,5,4.2,286,5728,149,32.16543,77.193136
+H0913,Manali Hotel 13,Manali,Vashisht,Boutique,5,4.0,558,14637,24,32.175252,77.172961
+H0914,Manali Hotel 14,Manali,Vashisht,Luxury,3,4.6,3066,17722,173,32.249165,77.261308
+H0915,Manali Hotel 15,Manali,Old Manali,Resort,5,4.2,3697,8590,142,32.255406,77.158348
+H0916,Manali Hotel 16,Manali,Mall Road,Business,3,4.9,51,7132,12,32.221495,77.173108
+H0917,Manali Hotel 17,Manali,Old Manali,Boutique,4,4.2,3315,17692,207,32.24272,77.166975
+H0918,Manali Hotel 18,Manali,Old Manali,Budget,4,4.5,3926,18067,24,32.278078,77.197283
+H0919,Manali Hotel 19,Manali,Vashisht,Business,5,4.2,4081,3397,188,32.290684,77.162293
+H0920,Manali Hotel 20,Manali,Vashisht,Business,4,3.3,4695,20623,76,32.288962,77.225163
+H0921,Manali Hotel 21,Manali,Mall Road,Budget,4,3.8,2349,17120,62,32.176493,77.261973
+H0922,Manali Hotel 22,Manali,Old Manali,Budget,3,4.1,1450,3967,55,32.2032,77.254461
+H0923,Manali Hotel 23,Manali,Vashisht,Luxury,3,3.3,2936,17849,96,32.220323,77.175089
+H0924,Manali Hotel 24,Manali,Vashisht,Luxury,3,4.3,4865,8438,107,32.246657,77.112036
+H0925,Manali Hotel 25,Manali,Vashisht,Resort,3,3.3,4375,19847,68,32.218143,77.188428
+H0926,Manali Hotel 26,Manali,Mall Road,Resort,5,4.9,886,7911,51,32.190981,77.168681
+H0927,Manali Hotel 27,Manali,Old Manali,Business,5,3.6,3644,14328,52,32.17918,77.154784
+H0928,Manali Hotel 28,Manali,Vashisht,Luxury,5,4.0,193,11167,56,32.175424,77.192827
+H0929,Manali Hotel 29,Manali,Vashisht,Budget,3,3.5,2017,14314,162,32.27159,77.243441
+H0930,Manali Hotel 30,Manali,Old Manali,Luxury,4,3.3,3299,20193,231,32.163701,77.259974
+H0931,Manali Hotel 31,Manali,Old Manali,Luxury,4,3.7,2539,15445,228,32.288085,77.201809
+H0932,Manali Hotel 32,Manali,Mall Road,Boutique,3,4.8,1296,12857,89,32.290141,77.237486
+H0933,Manali Hotel 33,Manali,Vashisht,Resort,3,4.0,2243,11319,105,32.263953,77.153679
+H0934,Manali Hotel 34,Manali,Vashisht,Boutique,4,4.9,571,4118,135,32.250484,77.177179
+H0935,Manali Hotel 35,Manali,Vashisht,Luxury,4,3.4,496,20614,121,32.193628,77.146027
+H0936,Manali Hotel 36,Manali,Old Manali,Budget,3,4.7,3710,15802,62,32.289774,77.189389
+H0937,Manali Hotel 37,Manali,Old Manali,Resort,3,4.5,4794,19829,231,32.20866,77.137299
+H0938,Manali Hotel 38,Manali,Old Manali,Budget,3,4.3,1841,6148,46,32.196647,77.11631
+H0939,Manali Hotel 39,Manali,Mall Road,Luxury,3,4.5,1513,9254,137,32.251007,77.239643
+H0940,Manali Hotel 40,Manali,Old Manali,Boutique,5,4.1,2633,8974,87,32.305033,77.144279
+H0941,Manali Hotel 41,Manali,Vashisht,Budget,5,3.5,3439,19168,161,32.169903,77.176705
+H0942,Manali Hotel 42,Manali,Mall Road,Resort,3,3.3,3754,12636,128,32.165627,77.200483
+H0943,Manali Hotel 43,Manali,Mall Road,Budget,5,3.5,2488,7502,83,32.250634,77.218483
+H0944,Manali Hotel 44,Manali,Mall Road,Business,3,4.3,3441,11889,57,32.270257,77.172946
+H0945,Manali Hotel 45,Manali,Vashisht,Budget,5,4.9,1393,5351,32,32.309088,77.12851
+H0946,Manali Hotel 46,Manali,Vashisht,Business,4,4.2,4707,5293,40,32.241466,77.245425
+H0947,Manali Hotel 47,Manali,Vashisht,Resort,5,4.5,699,17101,189,32.168388,77.233556
+H0948,Manali Hotel 48,Manali,Mall Road,Resort,5,4.2,2979,17495,244,32.184913,77.116836
+H0949,Manali Hotel 49,Manali,Vashisht,Resort,4,3.7,3686,16006,159,32.183322,77.129397
+H0950,Manali Hotel 50,Manali,Old Manali,Business,5,3.7,1027,3180,157,32.317062,77.14849
+H0951,Manali Hotel 51,Manali,Vashisht,Luxury,5,4.4,2239,6034,110,32.285991,77.211362
+H0952,Manali Hotel 52,Manali,Vashisht,Business,4,4.4,2073,8365,27,32.251768,77.220272
+H0953,Manali Hotel 53,Manali,Old Manali,Budget,3,4.3,1990,10623,25,32.283936,77.213568
+H0954,Manali Hotel 54,Manali,Vashisht,Resort,3,3.2,970,10050,125,32.218827,77.244867
+H0955,Manali Hotel 55,Manali,Old Manali,Luxury,3,4.6,3225,13173,23,32.255309,77.248031
+H0956,Manali Hotel 56,Manali,Mall Road,Business,3,4.7,1510,15480,137,32.225932,77.169642
+H0957,Manali Hotel 57,Manali,Old Manali,Resort,5,4.5,868,19108,89,32.214817,77.172534
+H0958,Manali Hotel 58,Manali,Old Manali,Boutique,4,3.8,1633,11691,93,32.236975,77.247366
+H0959,Manali Hotel 59,Manali,Mall Road,Luxury,3,4.3,4246,19646,55,32.214964,77.119448
+H0960,Manali Hotel 60,Manali,Vashisht,Luxury,5,4.0,4503,14748,14,32.276746,77.199023
+H0961,Bengaluru Hotel 1,Bengaluru,MG Road,Budget,3,3.6,3059,19728,88,13.04147,77.6499
+H0962,Bengaluru Hotel 2,Bengaluru,Indiranagar,Business,4,3.3,2923,16656,145,12.951861,77.527294
+H0963,Bengaluru Hotel 3,Bengaluru,MG Road,Boutique,4,4.6,3096,18927,186,12.957721,77.624468
+H0964,Bengaluru Hotel 4,Bengaluru,Koramangala,Boutique,4,4.5,2576,5648,85,12.985541,77.662253
+H0965,Bengaluru Hotel 5,Bengaluru,MG Road,Budget,4,4.1,3666,10668,227,12.90248,77.518966
+H0966,Bengaluru Hotel 6,Bengaluru,Indiranagar,Business,3,4.6,4706,21818,149,13.003322,77.556085
+H0967,Bengaluru Hotel 7,Bengaluru,Koramangala,Resort,3,3.5,3989,9066,185,12.908863,77.551691
+H0968,Bengaluru Hotel 8,Bengaluru,Koramangala,Boutique,3,4.7,2302,10509,128,12.927264,77.589032
+H0969,Bengaluru Hotel 9,Bengaluru,Indiranagar,Resort,4,4.1,3473,10081,27,13.007839,77.588927
+H0970,Bengaluru Hotel 10,Bengaluru,MG Road,Boutique,5,4.8,1366,22701,227,12.99315,77.613068
+H0971,Bengaluru Hotel 11,Bengaluru,MG Road,Luxury,3,4.4,2409,19458,109,12.907248,77.580613
+H0972,Bengaluru Hotel 12,Bengaluru,Indiranagar,Resort,3,4.0,3930,16731,130,13.035917,77.575691
+H0973,Bengaluru Hotel 13,Bengaluru,Koramangala,Budget,4,4.9,3118,17960,222,13.028006,77.584505
+H0974,Bengaluru Hotel 14,Bengaluru,MG Road,Resort,5,3.4,4947,5101,153,12.928871,77.630799
+H0975,Bengaluru Hotel 15,Bengaluru,Koramangala,Boutique,5,4.7,1601,10976,107,12.935145,77.614666
+H0976,Bengaluru Hotel 16,Bengaluru,Koramangala,Budget,5,3.3,4939,8910,225,13.03764,77.648973
+H0977,Bengaluru Hotel 17,Bengaluru,Indiranagar,Budget,5,3.8,2356,7912,241,13.00559,77.573759
+H0978,Bengaluru Hotel 18,Bengaluru,MG Road,Business,4,3.9,3030,12964,247,12.953707,77.602638
+H0979,Bengaluru Hotel 19,Bengaluru,MG Road,Boutique,4,3.8,1394,16085,230,12.978433,77.527682
+H0980,Bengaluru Hotel 20,Bengaluru,MG Road,Luxury,4,4.3,920,17208,153,12.919035,77.657475
+H0981,Bengaluru Hotel 21,Bengaluru,MG Road,Resort,3,3.6,580,17889,136,12.937382,77.527563
+H0982,Bengaluru Hotel 22,Bengaluru,MG Road,Budget,5,4.6,1033,14622,198,12.932608,77.549794
+H0983,Bengaluru Hotel 23,Bengaluru,Koramangala,Luxury,5,3.5,1849,22832,48,12.944083,77.574025
+H0984,Bengaluru Hotel 24,Bengaluru,Indiranagar,Business,5,3.7,1566,5644,135,13.002924,77.532147
+H0985,Bengaluru Hotel 25,Bengaluru,MG Road,Resort,4,4.5,3201,14453,225,12.999584,77.666063
+H0986,Bengaluru Hotel 26,Bengaluru,MG Road,Luxury,5,4.5,4768,14040,236,13.00279,77.546227
+H0987,Bengaluru Hotel 27,Bengaluru,Koramangala,Business,5,3.3,1141,17443,119,13.011103,77.661504
+H0988,Bengaluru Hotel 28,Bengaluru,Koramangala,Budget,5,3.3,972,8787,104,13.030317,77.516155
+H0989,Bengaluru Hotel 29,Bengaluru,Koramangala,Resort,5,4.3,2719,13808,147,13.010956,77.580711
+H0990,Bengaluru Hotel 30,Bengaluru,MG Road,Business,5,4.3,59,6996,207,13.019704,77.586443
+H0991,Bengaluru Hotel 31,Bengaluru,Indiranagar,Budget,4,4.2,2914,10927,128,12.891791,77.534229
+H0992,Bengaluru Hotel 32,Bengaluru,Indiranagar,Budget,4,4.7,1523,21714,220,12.915498,77.673811
+H0993,Bengaluru Hotel 33,Bengaluru,MG Road,Luxury,5,4.0,1355,15641,114,12.974901,77.550886
+H0994,Bengaluru Hotel 34,Bengaluru,Koramangala,Budget,3,4.3,3191,13195,92,13.017552,77.65225
+H0995,Bengaluru Hotel 35,Bengaluru,Koramangala,Boutique,4,4.3,514,17840,149,12.960297,77.646203
+H0996,Bengaluru Hotel 36,Bengaluru,Indiranagar,Budget,5,4.3,3526,15403,176,13.010109,77.537088
+H0997,Bengaluru Hotel 37,Bengaluru,Indiranagar,Resort,4,3.3,4519,16263,28,12.95515,77.595747
+H0998,Bengaluru Hotel 38,Bengaluru,Indiranagar,Resort,3,3.8,3722,8834,227,12.902291,77.575963
+H0999,Bengaluru Hotel 39,Bengaluru,Indiranagar,Resort,3,3.4,1392,11787,178,12.949,77.636496
+H1000,Bengaluru Hotel 40,Bengaluru,Indiranagar,Resort,3,3.2,2348,22876,156,13.045263,77.59674
+H1001,Bengaluru Hotel 41,Bengaluru,MG Road,Business,5,3.7,484,15721,130,12.996751,77.539105
+H1002,Bengaluru Hotel 42,Bengaluru,Koramangala,Luxury,5,3.5,2572,10966,195,12.937144,77.643434
+H1003,Bengaluru Hotel 43,Bengaluru,Indiranagar,Luxury,3,3.6,4943,20456,126,13.01645,77.641485
+H1004,Bengaluru Hotel 44,Bengaluru,MG Road,Resort,3,3.7,4266,17675,110,13.048523,77.542006
+H1005,Bengaluru Hotel 45,Bengaluru,MG Road,Luxury,5,4.8,959,18901,177,12.894518,77.621223
+H1006,Bengaluru Hotel 46,Bengaluru,Indiranagar,Business,3,4.1,198,19300,132,13.039243,77.529796
+H1007,Bengaluru Hotel 47,Bengaluru,MG Road,Luxury,5,3.4,3512,10224,214,13.03926,77.633836
+H1008,Bengaluru Hotel 48,Bengaluru,Koramangala,Resort,5,4.4,4189,20997,225,13.018228,77.56205
+H1009,Bengaluru Hotel 49,Bengaluru,Koramangala,Boutique,5,4.9,4778,17443,127,12.908198,77.538691
+H1010,Bengaluru Hotel 50,Bengaluru,MG Road,Luxury,5,4.7,4729,14249,179,12.952261,77.541712
+H1011,Bengaluru Hotel 51,Bengaluru,Koramangala,Resort,3,4.5,1803,9498,190,12.921787,77.574653
+H1012,Bengaluru Hotel 52,Bengaluru,Koramangala,Business,3,3.5,2110,6941,206,12.944509,77.648371
+H1013,Bengaluru Hotel 53,Bengaluru,Koramangala,Business,3,4.7,4146,22956,185,12.993337,77.552768
+H1014,Bengaluru Hotel 54,Bengaluru,Indiranagar,Budget,3,3.2,1456,8317,164,13.009456,77.660018
+H1015,Bengaluru Hotel 55,Bengaluru,MG Road,Luxury,4,3.5,4344,8062,217,12.90414,77.643435
+H1016,Bengaluru Hotel 56,Bengaluru,Indiranagar,Boutique,3,4.0,4620,22435,247,12.983374,77.523355
+H1017,Bengaluru Hotel 57,Bengaluru,Indiranagar,Luxury,4,3.6,3852,8495,217,13.043166,77.549053
+H1018,Bengaluru Hotel 58,Bengaluru,Indiranagar,Budget,3,4.0,4280,19323,37,12.944108,77.636253
+H1019,Bengaluru Hotel 59,Bengaluru,Indiranagar,Luxury,4,4.8,1695,10270,141,13.025724,77.636169
+H1020,Bengaluru Hotel 60,Bengaluru,Indiranagar,Resort,4,4.7,2395,21629,213,13.022931,77.549062
+H1021,Bengaluru Hotel 61,Bengaluru,Koramangala,Luxury,5,3.4,3869,21522,149,12.993351,77.537109
+H1022,Bengaluru Hotel 62,Bengaluru,Indiranagar,Resort,5,4.0,4837,21700,167,13.011884,77.594587
+H1023,Bengaluru Hotel 63,Bengaluru,MG Road,Business,5,3.5,1464,10520,169,12.941217,77.534102
+H1024,Bengaluru Hotel 64,Bengaluru,Indiranagar,Luxury,5,4.6,81,20116,26,12.93917,77.599279
+H1025,Bengaluru Hotel 65,Bengaluru,Indiranagar,Budget,4,4.1,989,10256,61,12.999104,77.597869
+H1026,Bengaluru Hotel 66,Bengaluru,Indiranagar,Resort,5,4.6,1252,11939,77,12.979133,77.65409
+H1027,Bengaluru Hotel 67,Bengaluru,Indiranagar,Resort,3,3.2,2573,14691,203,13.0332,77.589088
+H1028,Bengaluru Hotel 68,Bengaluru,Indiranagar,Boutique,4,4.2,4930,21977,74,12.916117,77.66141
+H1029,Bengaluru Hotel 69,Bengaluru,Indiranagar,Budget,5,3.6,1659,16561,247,12.957009,77.603589
+H1030,Bengaluru Hotel 70,Bengaluru,Indiranagar,Luxury,4,4.4,3056,11587,108,12.963112,77.669475
+H1031,Bengaluru Hotel 71,Bengaluru,Indiranagar,Luxury,5,3.7,2500,17086,22,12.970985,77.630638
+H1032,Bengaluru Hotel 72,Bengaluru,Indiranagar,Boutique,5,4.0,2005,11119,169,12.904961,77.604895
+H1033,Bengaluru Hotel 73,Bengaluru,Koramangala,Budget,4,4.3,4431,18166,60,12.918913,77.575704
+H1034,Bengaluru Hotel 74,Bengaluru,Indiranagar,Business,3,4.0,4930,11107,39,12.937192,77.652851
+H1035,Bengaluru Hotel 75,Bengaluru,Koramangala,Resort,3,4.4,1261,20603,160,12.927993,77.661932
+H1036,Bengaluru Hotel 76,Bengaluru,MG Road,Business,3,4.0,1765,21763,234,12.996822,77.543529
+H1037,Bengaluru Hotel 77,Bengaluru,MG Road,Business,3,3.4,4207,5803,26,13.006639,77.548558
+H1038,Bengaluru Hotel 78,Bengaluru,Koramangala,Boutique,3,4.2,1398,13327,192,13.050262,77.556514
+H1039,Bengaluru Hotel 79,Bengaluru,MG Road,Business,5,4.2,1140,7638,227,12.965665,77.653282
+H1040,Bengaluru Hotel 80,Bengaluru,Indiranagar,Budget,3,4.0,1758,7917,153,12.938799,77.566068
+H1041,Bengaluru Hotel 81,Bengaluru,MG Road,Boutique,3,4.6,2024,20153,82,13.004206,77.528904
+H1042,Bengaluru Hotel 82,Bengaluru,MG Road,Resort,4,4.3,190,11376,66,13.042778,77.670103
+H1043,Bengaluru Hotel 83,Bengaluru,MG Road,Business,5,3.3,2082,13849,48,13.004379,77.622924
+H1044,Bengaluru Hotel 84,Bengaluru,MG Road,Boutique,4,3.6,1730,20198,25,12.907192,77.622016
+H1045,Bengaluru Hotel 85,Bengaluru,Indiranagar,Resort,5,3.9,1520,19274,147,12.917871,77.631583
+H1046,Bengaluru Hotel 86,Bengaluru,Koramangala,Resort,5,3.6,3828,7919,10,12.992626,77.601037
+H1047,Bengaluru Hotel 87,Bengaluru,Koramangala,Boutique,5,3.5,3630,14409,236,12.937257,77.653645
+H1048,Bengaluru Hotel 88,Bengaluru,Koramangala,Business,4,3.5,4235,19001,78,13.006418,77.641915
+H1049,Bengaluru Hotel 89,Bengaluru,Koramangala,Business,5,4.3,1588,9259,25,12.979753,77.595785
+H1050,Bengaluru Hotel 90,Bengaluru,MG Road,Budget,4,3.9,2062,12138,68,12.955849,77.619543
+H1051,Bengaluru Hotel 91,Bengaluru,MG Road,Budget,3,4.6,3365,13098,156,12.974075,77.527942
+H1052,Bengaluru Hotel 92,Bengaluru,Koramangala,Boutique,5,3.8,1105,15125,54,12.922564,77.618749
+H1053,Bengaluru Hotel 93,Bengaluru,Indiranagar,Boutique,3,3.5,4180,22865,171,12.985091,77.567793
+H1054,Bengaluru Hotel 94,Bengaluru,MG Road,Budget,4,3.5,4550,16725,184,12.957669,77.591839
+H1055,Bengaluru Hotel 95,Bengaluru,Koramangala,Boutique,5,4.1,2594,17395,154,13.035216,77.587625
+H1056,Bengaluru Hotel 96,Bengaluru,MG Road,Resort,4,3.7,1451,19011,114,12.955016,77.624232
+H1057,Bengaluru Hotel 97,Bengaluru,Koramangala,Resort,4,3.4,3034,15214,133,13.024451,77.651283
+H1058,Bengaluru Hotel 98,Bengaluru,Indiranagar,Budget,3,3.4,3754,11883,171,12.97006,77.52315
+H1059,Bengaluru Hotel 99,Bengaluru,Koramangala,Boutique,3,4.8,3962,7329,142,12.944897,77.535728
+H1060,Bengaluru Hotel 100,Bengaluru,Koramangala,Business,5,3.9,984,15381,234,13.006915,77.650335
+H1061,Bengaluru Hotel 101,Bengaluru,Indiranagar,Boutique,3,3.2,488,6193,104,12.930243,77.632865
+H1062,Bengaluru Hotel 102,Bengaluru,Indiranagar,Boutique,4,4.7,1647,21420,183,12.912224,77.518555
+H1063,Bengaluru Hotel 103,Bengaluru,MG Road,Budget,5,3.9,230,19541,229,12.975834,77.559718
+H1064,Bengaluru Hotel 104,Bengaluru,Koramangala,Resort,4,3.4,4491,21288,56,12.953379,77.604723
+H1065,Bengaluru Hotel 105,Bengaluru,Koramangala,Budget,5,3.5,3595,18142,111,13.042993,77.657025
+H1066,Bengaluru Hotel 106,Bengaluru,Indiranagar,Luxury,4,3.5,4942,13848,215,12.95218,77.627142
+H1067,Bengaluru Hotel 107,Bengaluru,MG Road,Resort,3,4.0,4433,8641,92,12.943334,77.587749
+H1068,Bengaluru Hotel 108,Bengaluru,Koramangala,Luxury,5,4.1,1127,14149,154,12.904867,77.61143
+H1069,Bengaluru Hotel 109,Bengaluru,Koramangala,Budget,4,4.1,3277,8963,203,12.989354,77.558589
+H1070,Bengaluru Hotel 110,Bengaluru,Koramangala,Budget,4,4.4,2371,5150,66,12.974592,77.663687
+H1071,Bengaluru Hotel 111,Bengaluru,MG Road,Budget,5,3.6,2093,21347,95,13.03098,77.585876
+H1072,Bengaluru Hotel 112,Bengaluru,Koramangala,Budget,3,3.5,2776,9732,211,12.966162,77.668375
+H1073,Bengaluru Hotel 113,Bengaluru,MG Road,Boutique,5,4.5,1227,10226,39,12.931982,77.635458
+H1074,Bengaluru Hotel 114,Bengaluru,Indiranagar,Business,5,3.4,2201,7447,103,13.037817,77.52002
+H1075,Bengaluru Hotel 115,Bengaluru,Indiranagar,Luxury,3,4.5,4588,11908,203,13.042634,77.515147
+H1076,Bengaluru Hotel 116,Bengaluru,Indiranagar,Boutique,5,4.4,3654,19320,228,13.00663,77.63652
+H1077,Bengaluru Hotel 117,Bengaluru,Indiranagar,Budget,3,4.9,3042,14432,143,12.894617,77.596353
+H1078,Bengaluru Hotel 118,Bengaluru,MG Road,Resort,3,3.4,3145,20878,97,13.009735,77.671632
+H1079,Bengaluru Hotel 119,Bengaluru,Indiranagar,Resort,3,3.9,1632,19363,178,12.940764,77.604087
+H1080,Bengaluru Hotel 120,Bengaluru,Indiranagar,Resort,5,4.3,1704,7882,141,13.018065,77.592629
+H1081,Bengaluru Hotel 121,Bengaluru,Indiranagar,Boutique,3,3.5,4882,12198,85,12.983576,77.5264
+H1082,Bengaluru Hotel 122,Bengaluru,Koramangala,Resort,5,3.7,4473,12253,168,12.953731,77.657215
+H1083,Bengaluru Hotel 123,Bengaluru,MG Road,Resort,4,4.3,1254,20875,245,13.017088,77.62522
+H1084,Bengaluru Hotel 124,Bengaluru,Indiranagar,Boutique,5,3.2,3036,9388,137,13.046968,77.652344
+H1085,Bengaluru Hotel 125,Bengaluru,Koramangala,Business,3,3.6,3859,14537,115,12.976219,77.668383
+H1086,Bengaluru Hotel 126,Bengaluru,Koramangala,Luxury,5,4.5,4104,17188,239,13.044729,77.55498
+H1087,Bengaluru Hotel 127,Bengaluru,Indiranagar,Business,5,4.4,3824,7866,100,13.03559,77.604175
+H1088,Bengaluru Hotel 128,Bengaluru,MG Road,Boutique,3,3.9,2899,7464,50,12.996283,77.540213
+H1089,Bengaluru Hotel 129,Bengaluru,Indiranagar,Boutique,5,4.2,185,9436,53,13.050934,77.646578
+H1090,Bengaluru Hotel 130,Bengaluru,Indiranagar,Business,4,4.0,1453,8110,14,13.041173,77.516462
+H1091,Bengaluru Hotel 131,Bengaluru,Indiranagar,Resort,5,4.4,4542,22464,235,12.908268,77.555389
+H1092,Bengaluru Hotel 132,Bengaluru,MG Road,Luxury,5,4.3,3009,11449,125,12.984657,77.586499
+H1093,Bengaluru Hotel 133,Bengaluru,Indiranagar,Boutique,3,4.9,1597,6235,33,12.963279,77.601099
+H1094,Bengaluru Hotel 134,Bengaluru,MG Road,Boutique,3,3.3,4842,21670,163,13.037862,77.656381
+H1095,Bengaluru Hotel 135,Bengaluru,Koramangala,Resort,5,4.9,747,15078,102,13.006489,77.6513
+H1096,Bengaluru Hotel 136,Bengaluru,Indiranagar,Business,4,4.2,189,16979,26,12.959572,77.640325
+H1097,Bengaluru Hotel 137,Bengaluru,MG Road,Luxury,3,4.6,4516,6784,144,13.038476,77.565858
+H1098,Bengaluru Hotel 138,Bengaluru,MG Road,Budget,4,3.3,1755,13762,194,12.958125,77.62045
+H1099,Bengaluru Hotel 139,Bengaluru,MG Road,Boutique,4,4.1,2626,11488,232,12.93798,77.521957
+H1100,Bengaluru Hotel 140,Bengaluru,MG Road,Luxury,4,4.2,348,22063,130,12.933513,77.622862
